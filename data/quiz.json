@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Dell PowerScale là giải pháp chủ yếu dùng để làm gì?",
+    "options": [
+      "Lưu trữ và quản lý dữ liệu phi cấu trúc",
+      "Thiết kế đồ họa",
+      "Quản lý hệ điều hành máy tính cá nhân",
+      "Tạo trang trình chiếu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dell PowerScale là giải pháp lưu trữ dữ liệu phi cấu trúc như video, hình ảnh, tài liệu và dữ liệu phân tích."
+  },
+  {
+    "id": 2,
+    "question": "Kiến trúc Scale-out của Dell PowerScale cho phép mở rộng hệ thống bằng cách nào?",
+    "options": [
+      "Thay toàn bộ hệ thống mỗi khi cần thêm dung lượng",
+      "Bổ sung thêm các node vào cụm lưu trữ",
+      "Chỉ nâng cấp màn hình máy chủ",
+      "Xóa dữ liệu cũ để tạo thêm dung lượng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Scale-out mở rộng bằng cách bổ sung node, qua đó tăng dung lượng và năng lực phục vụ."
+  },
+  {
+    "id": 3,
+    "question": "OneFS có vai trò gì trong hệ thống Dell PowerScale?",
+    "options": [
+      "Là phần mềm chỉnh sửa video",
+      "Là giao thức truyền email",
+      "Quản lý cụm lưu trữ như một không gian thống nhất",
+      "Là công cụ tạo câu hỏi trắc nghiệm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "OneFS là hệ điều hành quản lý toàn bộ cụm lưu trữ PowerScale theo cách thống nhất."
+  },
+  {
+    "id": 4,
+    "question": "Đâu là nhóm giao thức được nội dung bài giảng đề cập PowerScale hỗ trợ?",
+    "options": [
+      "HTTP, FTP, SMTP, POP3",
+      "NFS, SMB, HDFS, S3",
+      "DNS, DHCP, SSH, Telnet",
+      "USB, HDMI, VGA, SATA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bài giảng nêu các giao thức NFS, SMB, HDFS và S3."
+  },
+  {
+    "id": 5,
+    "question": "Tính năng SmartPools được dùng để làm gì?",
+    "options": [
+      "Tự động phân tầng dữ liệu nhằm tối ưu việc sử dụng tài nguyên",
+      "Tạo tài khoản người dùng",
+      "Mã hóa nội dung video",
+      "Tăng độ phân giải màn hình"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SmartPools hỗ trợ phân tầng dữ liệu vào các tầng lưu trữ phù hợp theo chính sách."
+  },
+  {
+    "id": 6,
+    "question": "Nén dữ liệu và chống trùng lặp có lợi ích chính nào?",
+    "options": [
+      "Làm tăng số lượng bản sao không cần thiết",
+      "Giảm nhu cầu dung lượng lưu trữ",
+      "Thay thế hoàn toàn việc sao lưu",
+      "Tăng kích thước mọi tệp dữ liệu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hai kỹ thuật này có thể giúp tiết kiệm dung lượng, tùy thuộc đặc điểm dữ liệu."
+  },
+  {
+    "id": 7,
+    "question": "Theo nội dung video, các model F710 và F910 được nhắc đến trong bối cảnh nào?",
+    "options": [
+      "Thiết bị mạng Wi-Fi gia đình",
+      "Máy tính xách tay văn phòng",
+      "Các model hướng đến hiệu năng cao với kiến trúc Flash NVMe",
+      "Phần mềm quản lý cơ sở dữ liệu quan hệ"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Video đề cập F710 và F910 là các model tối ưu hiệu năng cao, sử dụng kiến trúc Flash NVMe."
+  },
+  {
+    "id": 8,
+    "question": "Dell PowerScale có thể được ứng dụng trong lĩnh vực nào sau đây?",
+    "options": [
+      "Big Data và phân tích dữ liệu",
+      "Chỉ soạn thảo văn bản",
+      "Chỉ chơi trò chơi điện tử",
+      "Chỉ thiết kế bảng tính cá nhân"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Các ứng dụng được nêu gồm Big Data, phân tích dữ liệu, log IoT, hậu kỳ video, tài chính và AI."
+  },
+  {
+    "id": 9,
+    "question": "CloudPools được nhắc đến với mục đích nào?",
+    "options": [
+      "Tạo hiệu ứng cho video",
+      "Hỗ trợ tích hợp hoặc phân tầng lưu trữ với môi trường đám mây",
+      "Thay thế hệ điều hành OneFS",
+      "Quản lý lịch học của sinh viên"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CloudPools hỗ trợ phân tầng hoặc mở rộng lưu trữ sang môi trường cloud theo chính sách."
+  },
+  {
+    "id": 10,
+    "question": "Lợi ích nổi bật của kiến trúc Scale-out là gì?",
+    "options": [
+      "Không thể mở rộng sau khi triển khai",
+      "Phải dừng toàn bộ hệ thống mỗi khi thêm node",
+      "Có thể mở rộng linh hoạt bằng cách bổ sung node",
+      "Chỉ lưu trữ được tệp văn bản"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Scale-out cho phép bổ sung node để đáp ứng nhu cầu tăng trưởng của hệ thống."
+  }
+]

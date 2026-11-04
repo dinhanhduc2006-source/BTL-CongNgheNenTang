@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cổng Xác Thực Sinh Viên - Đề 06</title>
+  <style>
+    * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { background: #edf2f7; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+    .auth-container { background: white; width: 420px; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    .tabs { display: flex; border-bottom: 2px solid #e2e8f0; margin-bottom: 20px; }
+    .tab { flex: 1; text-align: center; padding: 10px; cursor: pointer; font-weight: bold; color: #718096; }
+    .tab.active { color: #3182ce; border-bottom: 2px solid #3182ce; margin-bottom: -2px; }
+    .form-group { margin-bottom: 15px; }
+    label { display: block; margin-bottom: 5px; font-size: 13px; font-weight: 600; color: #4a5568; }
+    input { width: 100%; padding: 10px; border: 1px solid #cbd5e0; border-radius: 5px; font-size: 14px; }
+    input:focus { outline: none; border-color: #3182ce; }
+    button { width: 100%; padding: 11px; background: #3182ce; color: white; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; }
+    button:hover { background: #2b6cb0; }
+    .error-msg { color: #e53e3e; font-size: 12px; margin-top: 4px; display: block; }
+    .alert { padding: 10px; border-radius: 4px; margin-bottom: 15px; font-size: 13px; }
+    .alert-danger { background: #fed7d7; color: #9b2c2c; }
+    .alert-success { background: #c6f6d5; color: #22543d; }
+  </style>
+</head>
+<body>
+
+<div class="auth-container">
+  <h2 style="text-align: center; color: #2d3748; margin-top: 0;">Nền Tảng E-Learning</h2>
+
+  <div class="tabs">
+    <div class="tab active" onclick="switchTab('login')">Đăng nhập</div>
+    <div class="tab" onclick="switchTab('register')">Đăng ký</div>
+  </div>
+
+
+  <div id="login-form">
+    <div id="login-alert" class="alert alert-danger" style="display: none;">Tài khoản hoặc mật khẩu không chính xác!</div>
+    <div id="logout-alert" class="alert alert-success" style="display: none;">Đã đăng xuất thành công.</div>
+
+    <form action="/perform_login" method="POST">
+      <div class="form-group">
+        <label>Tên đăng nhập</label>
+        <input type="text" name="username" required placeholder="Nhập username">
+      </div>
+      <div class="form-group">
+        <label>Mật khẩu</label>
+        <input type="password" name="password" required placeholder="Nhập mật khẩu">
+      </div>
+      <button type="submit">Đăng Nhập Vào Học</button>
+    </form>
+  </div>
+
+
+  <div id="register-form" style="display: none;">
+    <div id="reg-alert" class="alert" style="display: none;"></div>
+
+    <div class="form-group">
+      <label>Tên đăng nhập (4-20 ký tự)</label>
+      <input type="text" id="reg-username" placeholder="vd: student01">
+      <span id="err-username" class="error-msg"></span>
+    </div>
+    <div class="form-group">
+      <label>Họ và tên</label>
+      <input type="text" id="reg-fullname" placeholder="vd: Nguyen Van A">
+      <span id="err-fullName" class="error-msg"></span>
+    </div>
+    <div class="form-group">
+      <label>Mật khẩu (>= 8 ký tự, gồm Hoa, Thường, Số, Ký tự đặc biệt)</label>
+      <input type="password" id="reg-password" placeholder="vd: Admin@1234">
+      <span id="err-password" class="error-msg"></span>
+    </div>
+    <button type="button" onclick="handleRegister()">Tạo Tài Khoản Mới</button>
+  </div>
+</div>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.has('error')) document.getElementById('login-alert').style.display = 'block';
+  if (urlParams.has('logout')) document.getElementById('logout-alert').style.display = 'block';
+
+  function switchTab(type) {
+    const tabs = document.querySelectorAll('.tab');
+    if (type === 'login') {
+      tabs[0].classList.add('active');
+      tabs[1].classList.remove('active');
+      document.getElementById('login-form').style.display = 'block';
+      document.getElementById('register-form').style.display = 'none';
+    } else {
+      tabs[1].classList.add('active');
+      tabs[0].classList.remove('active');
+      document.getElementById('login-form').style.display = 'none';
+      document.getElementById('register-form').style.display = 'block';
+    }
+  }
+
+  async function handleRegister() {
+    ['username', 'fullName', 'password'].forEach(f => document.getElementById('err-' + f).innerText = '');
+    const alertBox = document.getElementById('reg-alert');
+    alertBox.style.display = 'none';
+
+    const body = {
+      username: document.getElementById('reg-username').value,
+      fullName: document.getElementById('reg-fullname').value,
+      password: document.getElementById('reg-password').value
+    };
+
+    const res = await fetch('/api/auth/register', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+
+    const data = await res.json();
+    if (res.status === 201) {
+      alertBox.className = 'alert alert-success';
+      alertBox.innerText = 'Đăng ký thành công! Hãy chuyển sang tab Đăng nhập.';
+      alertBox.style.display = 'block';
+    } else if (res.status === 400 || res.status === 409) {
+      for (const [key, msg] of Object.entries(data)) {
+        const span = document.getElementById('err-' + key);
+        if (span) span.innerText = msg;
+      }
+    }
+  }
+</script>
+
+</body>
+</html>

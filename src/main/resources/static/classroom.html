@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Nền tảng học trực tuyến</title>
+  <style>
+    * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { max-width: 960px; margin: 20px auto; padding: 0 20px; background-color: #f7fafc; color: #2d3748; }
+    header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 15px; margin-bottom: 25px; }
+    .card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); margin-bottom: 25px; border-left: 4px solid #3182ce; }
+    video { width: 100%; max-height: 420px; border-radius: 6px; background: #000; }
+    .btn { display: inline-block; padding: 10px 18px; border-radius: 5px; font-weight: 600; text-decoration: none; cursor: pointer; border: none; }
+    .btn-primary { background: #3182ce; color: white; }
+    .btn-primary:hover { background: #2b6cb0; }
+    .btn-danger { background: #e53e3e; color: white; }
+    .btn-check { margin-top: 10px; padding: 6px 14px; font-size: 13px; background: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; }
+    .btn-check:hover { background: #2d3748; }
+    .question-box { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 16px; margin-bottom: 15px; }
+    .option-label { display: block; margin: 8px 0; cursor: pointer; font-size: 14px; }
+    .option-label input { margin-right: 8px; }
+    .quiz-result { margin-top: 10px; font-size: 13px; font-weight: 600; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h2 style="margin: 0; color: #1a365d;">Nền tảng học trực tuyến</h2>
+    <small style="color: #718096;">Hệ thống thử nghiệm 1.000 sinh viên</small>
+  </div>
+  <div>
+    <!-- Form logout chuẩn bảo mật của Spring Security -->
+    <form action="/logout" method="POST" style="margin: 0;">
+      <button type="submit" class="btn btn-danger">Đăng Xuất</button>
+    </form>
+  </div>
+</header>
+
+<!-- 1. Video bài giảng -->
+<div class="card">
+  <h3>1. Video Bài Giảng Trực Tuyến </h3>
+  <video controls>
+    <source src="/api/materials/video" type="video/mp4">
+    Trình duyệt không hỗ trợ xem video.
+  </video>
+</div>
+
+<!-- 2. Tài liệu học tập PDF -->
+<div class="card">
+  <h3>2. Giáo Trình & Tài Liệu Đi Kèm (.PDF)</h3>
+  <a href="/api/materials/document" download="document.pdf" class="btn btn-primary">
+    Tải Slide Bài Giảng (.PDF)
+  </a>
+</div>
+
+<!-- 3. Bài trắc nghiệm tương tác -->
+<div class="card">
+  <h3>3. Câu Hỏi Trắc Nghiệm Ôn Tập </h3>
+  <button onclick="loadQuiz()" class="btn btn-primary" style="margin-bottom: 15px;">Tải Danh Sách Câu Hỏi</button>
+  <div id="quiz-container">
+    <p style="color: #718096; margin: 0;">Bấm nút phía trên để tải danh sách câu hỏi trắc nghiệm từ hệ thống...</p>
+  </div>
+</div>
+
+<script>
+  async function loadQuiz() {
+    const container = document.getElementById('quiz-container');
+    container.innerHTML = '<p style="color: #4a5568;">Đang tải danh sách câu hỏi...</p>';
+
+    try {
+      const res = await fetch('/api/materials/quiz');
+      if (!res.ok) {
+        container.innerHTML = '<p style="color: #e53e3e;">Không thể tải dữ liệu câu hỏi (Mã lỗi: ' + res.status + ')</p>';
+        return;
+      }
+
+      const questions = await res.json();
+      if (!questions || questions.length === 0) {
+        container.innerHTML = '<p style="color: #718096;">Chưa có câu hỏi nào trong hệ thống.</p>';
+        return;
+      }
+
+      container.innerHTML = '';
+
+      questions.forEach((q, index) => {
+        const qBox = document.createElement('div');
+        qBox.className = 'question-box';
+
+        let optionsHtml = '';
+        q.options.forEach((opt, optIndex) => {
+          optionsHtml += `
+            <label class="option-label">
+              <input type="radio" name="question_${q.id}" value="${optIndex}">
+              ${opt}
+            </label>
+          `;
+        });
+
+        // Xử lý chuỗi giải thích tránh lỗi escape ký tự đặc biệt
+        const safeExplanation = q.explanation ? encodeURIComponent(q.explanation) : '';
+
+        qBox.innerHTML = `
+          <div style="font-weight: 600; margin-bottom: 10px; color: #1a365d;">
+            Câu ${index + 1}: ${q.question}
+          </div>
+          <div>
+            ${optionsHtml}
+          </div>
+          <button type="button" class="btn-check" onclick="checkAnswer(${q.id}, ${q.correctAnswer}, '${safeExplanation}')">
+            Kiểm tra đáp án
+          </button>
+          <div id="result_${q.id}" class="quiz-result"></div>
+        `;
+
+        container.appendChild(qBox);
+      });
+
+    } catch (err) {
+      container.innerHTML = '<p style="color: #e53e3e;">Lỗi kết nối khi lấy dữ liệu bài tập trắc nghiệm!</p>';
+    }
+  }
+
+  function checkAnswer(questionId, correctAnswer, encodedExplanation) {
+    const selected = document.querySelector(`input[name="question_${questionId}"]:checked`);
+    const resultDiv = document.getElementById(`result_${questionId}`);
+
+    if (!selected) {
+      resultDiv.style.color = '#d97706';
+      resultDiv.innerText = 'Vui lòng chọn một đáp án!';
+      return;
+    }
+
+    const explanation = encodedExplanation ? decodeURIComponent(encodedExplanation) : '';
+
+    if (parseInt(selected.value) === correctAnswer) {
+      resultDiv.style.color = '#16a34a';
+      resultDiv.innerText = '✓ Chính xác! ' + (explanation ? 'Giải thích: ' + explanation : '');
+    } else {
+      resultDiv.style.color = '#dc2626';
+      resultDiv.innerText = '✗ Chưa chính xác, hãy thử lại!';
+    }
+  }
+</script>
+</body>
+</html>
