@@ -1,0 +1,1051 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1794012027951,173,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-3,text,true,,6835,482,19,19,http://localhost:8080/classroom.html,164,0,41
+1794012027951,164,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-3,,true,,413,277,19,19,http://localhost:8080/perform_login,164,0,41
+1794012028119,5,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-3,text,true,,6422,205,19,19,http://localhost:8080/classroom.html,5,0,0
+1794012028040,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-8,text,true,,6835,482,19,19,http://localhost:8080/classroom.html,113,0,2
+1794012028040,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-8,,true,,413,277,19,19,http://localhost:8080/perform_login,113,0,2
+1794012028154,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-8,text,true,,6422,205,19,19,http://localhost:8080/classroom.html,3,0,0
+1794012028114,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-5,text,true,,6835,482,20,20,http://localhost:8080/classroom.html,113,0,2
+1794012028114,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-5,,true,,413,277,20,20,http://localhost:8080/perform_login,113,0,2
+1794012028228,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-5,text,true,,6422,205,20,20,http://localhost:8080/classroom.html,4,0,0
+1794012028159,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-4,text,true,,6835,482,20,20,http://localhost:8080/classroom.html,115,0,2
+1794012028159,115,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-4,,true,,413,277,20,20,http://localhost:8080/perform_login,115,0,2
+1794012028275,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-4,text,true,,6422,205,20,20,http://localhost:8080/classroom.html,3,0,0
+1794012028176,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-2,text,true,,6835,482,20,20,http://localhost:8080/classroom.html,123,0,2
+1794012028176,123,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-2,,true,,413,277,20,20,http://localhost:8080/perform_login,123,0,2
+1794012028300,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-2,text,true,,6422,205,20,20,http://localhost:8080/classroom.html,4,0,0
+1794012028192,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-1,text,true,,6835,482,21,21,http://localhost:8080/classroom.html,124,0,2
+1794012028192,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-1,,true,,413,277,21,21,http://localhost:8080/perform_login,124,0,2
+1794012028317,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-1,text,true,,6422,205,21,21,http://localhost:8080/classroom.html,3,0,0
+1794012028387,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-6,text,true,,6835,482,23,23,http://localhost:8080/classroom.html,112,0,2
+1794012028387,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-6,,true,,413,277,23,23,http://localhost:8080/perform_login,112,0,2
+1794012028500,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-6,text,true,,6422,205,23,23,http://localhost:8080/classroom.html,4,0,0
+1794012028387,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-7,text,true,,6835,482,23,23,http://localhost:8080/classroom.html,112,0,2
+1794012028387,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-7,,true,,413,277,23,23,http://localhost:8080/perform_login,112,0,2
+1794012028500,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-7,text,true,,6422,205,23,23,http://localhost:8080/classroom.html,4,0,0
+1794012028587,116,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-13,text,true,,6835,483,24,24,http://localhost:8080/classroom.html,111,0,2
+1794012028587,111,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-13,,true,,413,278,24,24,http://localhost:8080/perform_login,111,0,2
+1794012028699,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-13,text,true,,6422,205,24,24,http://localhost:8080/classroom.html,4,0,0
+1794012028840,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-9,text,true,,6835,482,27,27,http://localhost:8080/classroom.html,113,0,1
+1794012028840,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-9,,true,,413,277,27,27,http://localhost:8080/perform_login,113,0,1
+1794012028954,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-9,text,true,,6422,205,27,27,http://localhost:8080/classroom.html,4,0,0
+1794012028982,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-14,text,true,,6835,483,28,28,http://localhost:8080/classroom.html,114,0,2
+1794012028982,114,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-14,,true,,413,278,28,28,http://localhost:8080/perform_login,114,0,2
+1794012029097,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-14,text,true,,6422,205,28,28,http://localhost:8080/classroom.html,3,0,0
+1794012029010,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-10,text,true,,6835,483,29,29,http://localhost:8080/classroom.html,112,0,1
+1794012029010,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-10,,true,,413,278,29,29,http://localhost:8080/perform_login,112,0,1
+1794012029122,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-10,text,true,,6422,205,29,29,http://localhost:8080/classroom.html,3,0,0
+1794012029155,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-12,text,true,,6835,483,30,30,http://localhost:8080/classroom.html,118,0,2
+1794012029155,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-12,,true,,413,278,30,30,http://localhost:8080/perform_login,118,0,2
+1794012029274,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-12,text,true,,6422,205,30,30,http://localhost:8080/classroom.html,3,0,0
+1794012029216,137,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-11,text,true,,6835,483,31,31,http://localhost:8080/classroom.html,132,0,3
+1794012029216,132,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-11,,true,,413,278,31,31,http://localhost:8080/perform_login,132,0,3
+1794012029349,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-11,text,true,,6422,205,31,31,http://localhost:8080/classroom.html,4,0,0
+1794012029279,143,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-18,text,true,,6835,483,32,32,http://localhost:8080/classroom.html,136,0,1
+1794012029279,136,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-18,,true,,413,278,32,32,http://localhost:8080/perform_login,136,0,1
+1794012029416,6,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-18,text,true,,6422,205,32,32,http://localhost:8080/classroom.html,6,0,0
+1794012029327,134,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-19,text,true,,6835,483,32,32,http://localhost:8080/classroom.html,129,0,2
+1794012029327,129,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-19,,true,,413,278,32,32,http://localhost:8080/perform_login,129,0,2
+1794012029457,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-19,text,true,,6422,205,32,32,http://localhost:8080/classroom.html,4,0,0
+1794012029419,138,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-15,text,true,,6835,483,33,33,http://localhost:8080/classroom.html,132,0,3
+1794012029419,132,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-15,,true,,413,278,33,33,http://localhost:8080/perform_login,132,0,3
+1794012029552,5,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-15,text,true,,6422,205,33,33,http://localhost:8080/classroom.html,5,0,0
+1794012029559,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-6,text,true,,6422,205,33,33,http://localhost:8080/classroom.html,4,0,0
+1794012029435,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-16,text,true,,6835,483,33,33,http://localhost:8080/classroom.html,126,0,2
+1794012029435,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-16,,true,,413,278,33,33,http://localhost:8080/perform_login,126,0,2
+1794012029562,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-16,text,true,,6422,205,33,33,http://localhost:8080/classroom.html,2,0,0
+1794012029451,142,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-20,text,true,,6835,483,33,33,http://localhost:8080/classroom.html,137,0,3
+1794012029451,137,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-20,,true,,413,278,33,33,http://localhost:8080/perform_login,137,0,3
+1794012029589,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-20,text,true,,6422,205,33,33,http://localhost:8080/classroom.html,4,0,0
+1794012029467,140,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-21,text,true,,6835,483,34,34,http://localhost:8080/classroom.html,136,0,2
+1794012029467,136,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-21,,true,,413,278,34,34,http://localhost:8080/perform_login,136,0,2
+1794012029603,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-21,text,true,,6422,205,34,34,http://localhost:8080/classroom.html,4,0,0
+1794012029622,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-1,text,true,,6422,205,34,34,http://localhost:8080/classroom.html,4,0,0
+1794012029623,137,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-23,text,true,,6835,483,35,35,http://localhost:8080/classroom.html,133,0,2
+1794012029623,133,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-23,,true,,413,278,35,35,http://localhost:8080/perform_login,133,0,2
+1794012029757,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-23,text,true,,6422,205,35,35,http://localhost:8080/classroom.html,3,0,0
+1794012029809,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-4,text,true,,6422,205,36,36,http://localhost:8080/classroom.html,5,0,0
+1794012029686,137,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-17,text,true,,6835,483,36,36,http://localhost:8080/classroom.html,133,0,2
+1794012029686,133,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-17,,true,,413,278,36,36,http://localhost:8080/perform_login,133,0,2
+1794012029820,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-17,text,true,,6422,205,36,36,http://localhost:8080/classroom.html,3,0,0
+1794012029841,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-3,text,true,,6422,205,36,36,http://localhost:8080/classroom.html,4,0,0
+1794012029810,112,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-22,text,true,,6835,483,37,37,http://localhost:8080/classroom.html,108,0,2
+1794012029810,108,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-22,,true,,413,278,37,37,http://localhost:8080/perform_login,108,0,2
+1794012029919,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-22,text,true,,6422,205,37,37,http://localhost:8080/classroom.html,3,0,0
+1794012030073,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-7,text,true,,6422,205,38,38,http://localhost:8080/classroom.html,4,0,0
+1794012030088,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-5,text,true,,6422,205,38,38,http://localhost:8080/classroom.html,5,0,0
+1794012030135,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-8,text,true,,6422,205,39,39,http://localhost:8080/classroom.html,3,0,0
+1794012030012,130,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-27,text,true,,6835,483,39,39,http://localhost:8080/classroom.html,126,0,2
+1794012030012,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-27,,true,,413,278,39,39,http://localhost:8080/perform_login,126,0,2
+1794012030139,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-27,text,true,,6422,205,39,39,http://localhost:8080/classroom.html,3,0,0
+1794012030027,131,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-26,text,true,,6835,483,39,39,http://localhost:8080/classroom.html,128,0,2
+1794012030027,128,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-26,,true,,413,278,39,39,http://localhost:8080/perform_login,128,0,2
+1794012030155,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-26,text,true,,6422,205,39,39,http://localhost:8080/classroom.html,3,0,0
+1794012030212,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-14,text,true,,6422,205,40,40,http://localhost:8080/classroom.html,4,0,0
+1794012030212,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-9,text,true,,6422,205,40,40,http://localhost:8080/classroom.html,4,0,0
+1794012030227,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-2,text,true,,6422,205,40,40,http://localhost:8080/classroom.html,4,0,0
+1794012030213,123,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-25,text,true,,6835,483,41,41,http://localhost:8080/classroom.html,118,0,2
+1794012030213,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-25,,true,,413,278,41,41,http://localhost:8080/perform_login,118,0,2
+1794012030332,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-25,text,true,,6422,205,41,41,http://localhost:8080/classroom.html,4,0,0
+1794012030351,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-13,text,true,,6422,205,41,41,http://localhost:8080/classroom.html,4,0,0
+1794012030398,127,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-29,text,true,,6835,483,43,43,http://localhost:8080/classroom.html,122,0,2
+1794012030398,122,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-29,,true,,413,278,43,43,http://localhost:8080/perform_login,122,0,2
+1794012030521,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-29,text,true,,6422,205,43,43,http://localhost:8080/classroom.html,4,0,0
+1794012030429,125,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-24,text,true,,6835,483,43,43,http://localhost:8080/classroom.html,120,0,2
+1794012030429,120,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-24,,true,,413,278,43,43,http://localhost:8080/perform_login,120,0,2
+1794012030550,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-24,text,true,,6422,205,43,43,http://localhost:8080/classroom.html,4,0,0
+1794012030567,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-10,text,true,,6422,205,43,43,http://localhost:8080/classroom.html,3,0,0
+1794012030628,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-11,text,true,,6422,205,44,44,http://localhost:8080/classroom.html,4,0,0
+1794012030505,127,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-30,text,true,,6835,483,44,44,http://localhost:8080/classroom.html,124,0,2
+1794012030505,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-30,,true,,413,278,44,44,http://localhost:8080/perform_login,124,0,2
+1794012030629,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-30,text,true,,6422,205,44,44,http://localhost:8080/classroom.html,3,0,0
+1794012030536,132,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-32,text,true,,6835,483,44,44,http://localhost:8080/classroom.html,124,0,2
+1794012030536,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-32,,true,,413,278,44,44,http://localhost:8080/perform_login,124,0,2
+1794012030661,7,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-32,text,true,,6422,205,44,44,http://localhost:8080/classroom.html,6,0,0
+1794012030845,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-21,text,true,,6422,205,46,46,http://localhost:8080/classroom.html,5,0,0
+1794012030861,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-16,text,true,,6422,205,46,46,http://localhost:8080/classroom.html,4,0,0
+1794012030800,130,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-28,text,true,,6835,483,47,47,http://localhost:8080/classroom.html,124,0,2
+1794012030800,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-28,,true,,413,278,47,47,http://localhost:8080/perform_login,124,0,2
+1794012030925,5,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-28,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,4,0,0
+1794012030955,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-22,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,4,0,0
+1794012030830,137,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-31,text,true,,6835,483,47,47,http://localhost:8080/classroom.html,134,0,2
+1794012030830,134,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-31,,true,,413,278,47,47,http://localhost:8080/perform_login,134,0,2
+1794012030964,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-31,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,3,0,0
+1794012030846,127,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-34,text,true,,6835,483,47,47,http://localhost:8080/classroom.html,124,0,2
+1794012030846,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-34,,true,,413,278,47,47,http://localhost:8080/perform_login,124,0,2
+1794012030971,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-34,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,2,0,0
+1794012030970,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-6,text,true,,5449,209,47,47,http://localhost:8080/api/materials/quiz,4,0,0
+1794012030986,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-18,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,5,0,0
+1794012030862,134,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-33,text,true,,6835,483,47,47,http://localhost:8080/classroom.html,129,0,2
+1794012030862,129,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-33,,true,,413,278,47,47,http://localhost:8080/perform_login,129,0,2
+1794012030991,5,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-33,text,true,,6422,205,47,47,http://localhost:8080/classroom.html,5,0,0
+1794012031111,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-23,text,true,,6422,205,49,49,http://localhost:8080/classroom.html,5,0,0
+1794012031172,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-12,text,true,,6422,205,49,49,http://localhost:8080/classroom.html,2,0,0
+1794012031187,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-19,text,true,,6422,205,49,49,http://localhost:8080/classroom.html,2,0,0
+1794012031202,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-3,text,true,,5449,209,50,50,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031313,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-17,text,true,,6422,205,51,51,http://localhost:8080/classroom.html,3,0,0
+1794012031359,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-27,text,true,,6422,205,51,51,http://localhost:8080/classroom.html,3,0,0
+1794012031374,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-20,text,true,,6422,205,51,51,http://localhost:8080/classroom.html,3,0,0
+1794012031390,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-15,text,true,,6422,205,52,52,http://localhost:8080/classroom.html,3,0,0
+1794012031453,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-1,text,true,,5449,209,52,52,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031406,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-37,text,true,,6835,483,53,53,http://localhost:8080/classroom.html,111,0,1
+1794012031406,111,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-37,,true,,413,278,53,53,http://localhost:8080/perform_login,111,0,1
+1794012031517,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-37,text,true,,6422,205,53,53,http://localhost:8080/classroom.html,3,0,0
+1794012031594,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-2,text,true,,5449,209,54,54,http://localhost:8080/api/materials/quiz,2,0,0
+1794012031656,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-5,text,true,,5449,209,54,54,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031548,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-35,text,true,,6835,483,54,54,http://localhost:8080/classroom.html,119,0,1
+1794012031548,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-35,,true,,413,278,54,54,http://localhost:8080/perform_login,119,0,1
+1794012031667,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-35,text,true,,6422,205,54,54,http://localhost:8080/classroom.html,2,0,0
+1794012031702,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-25,text,true,,6422,205,55,55,http://localhost:8080/classroom.html,3,0,0
+1794012031717,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-4,text,true,,5449,209,55,55,http://localhost:8080/api/materials/quiz,4,0,0
+1794012031626,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-41,text,true,,6835,483,55,55,http://localhost:8080/classroom.html,118,0,1
+1794012031626,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-41,,true,,413,278,55,55,http://localhost:8080/perform_login,118,0,1
+1794012031745,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-41,text,true,,6422,205,55,55,http://localhost:8080/classroom.html,2,0,0
+1794012031780,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-24,text,true,,6422,205,55,55,http://localhost:8080/classroom.html,3,0,0
+1794012031827,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-7,text,true,,5449,209,56,56,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031734,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-40,text,true,,6835,483,56,56,http://localhost:8080/classroom.html,117,0,1
+1794012031734,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-40,,true,,413,278,56,56,http://localhost:8080/perform_login,117,0,1
+1794012031851,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-40,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,3,0,0
+1794012031734,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-38,text,true,,6835,483,56,56,http://localhost:8080/classroom.html,120,0,1
+1794012031734,120,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-38,,true,,413,278,56,56,http://localhost:8080/perform_login,120,0,1
+1794012031854,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-38,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,2,0,0
+1794012031859,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-14,text,true,,5449,209,56,56,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031876,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-9,text,true,,5449,209,56,56,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031765,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-36,text,true,,6835,483,56,56,http://localhost:8080/classroom.html,117,0,1
+1794012031765,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-36,,true,,413,278,56,56,http://localhost:8080/perform_login,117,0,1
+1794012031882,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-36,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,3,0,0
+1794012031907,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-11,text,true,,5449,209,57,57,http://localhost:8080/api/materials/quiz,3,0,0
+1794012031938,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-10,text,true,,5449,209,57,57,http://localhost:8080/api/materials/quiz,2,0,0
+1794012031953,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-26,text,true,,6422,205,57,57,http://localhost:8080/classroom.html,3,0,0
+1794012031985,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-30,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,3,0,0
+1794012031892,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-39,text,true,,6835,483,58,58,http://localhost:8080/classroom.html,126,0,1
+1794012031892,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-39,,true,,413,278,58,58,http://localhost:8080/perform_login,126,0,1
+1794012032019,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-39,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,2,0,0
+1794012032062,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-34,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,3,0,0
+1794012031954,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-43,text,true,,6835,483,58,58,http://localhost:8080/classroom.html,118,0,1
+1794012031954,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-43,,true,,413,278,58,58,http://localhost:8080/perform_login,118,0,1
+1794012032073,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-43,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,2,0,0
+1794012032079,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-31,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,2,0,0
+1794012031954,130,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-44,text,true,,6835,483,58,58,http://localhost:8080/classroom.html,128,0,1
+1794012031954,128,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-44,,true,,413,278,58,58,http://localhost:8080/perform_login,128,0,1
+1794012032082,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-44,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,2,0,0
+1794012032094,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-29,text,true,,6422,205,59,59,http://localhost:8080/classroom.html,3,0,0
+1794012032125,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-33,text,true,,6422,205,59,59,http://localhost:8080/classroom.html,4,0,0
+1794012032141,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-8,text,true,,5449,209,59,59,http://localhost:8080/api/materials/quiz,4,0,0
+1794012032142,124,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-49,text,true,,6835,483,60,60,http://localhost:8080/classroom.html,120,0,1
+1794012032142,120,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-49,,true,,413,278,60,60,http://localhost:8080/perform_login,120,0,1
+1794012032263,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-49,text,true,,6422,205,60,60,http://localhost:8080/classroom.html,3,0,0
+1794012032326,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-13,text,true,,5449,209,61,61,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032203,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-42,text,true,,6835,483,61,61,http://localhost:8080/classroom.html,126,0,2
+1794012032203,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-42,,true,,413,278,61,61,http://localhost:8080/perform_login,126,0,2
+1794012032329,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-42,text,true,,6422,205,61,61,http://localhost:8080/classroom.html,2,0,0
+1794012032342,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-23,text,true,,5449,209,61,61,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032249,125,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-45,text,true,,6835,483,61,61,http://localhost:8080/classroom.html,122,0,1
+1794012032249,122,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-45,,true,,413,278,61,61,http://localhost:8080/perform_login,122,0,1
+1794012032371,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-45,text,true,,6422,205,61,61,http://localhost:8080/classroom.html,3,0,0
+1794012032484,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-32,text,true,,6422,205,62,62,http://localhost:8080/classroom.html,3,0,0
+1794012032589,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-18,text,true,,5449,209,63,63,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032634,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-22,text,true,,5449,209,64,64,http://localhost:8080/api/materials/quiz,4,0,0
+1794012032419,223,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-46,text,true,,6835,483,64,64,http://localhost:8080/classroom.html,220,0,1
+1794012032419,220,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-46,,true,,413,278,64,64,http://localhost:8080/perform_login,220,0,1
+1794012032640,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-46,text,true,,6422,205,64,64,http://localhost:8080/classroom.html,2,0,0
+1794012032682,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-12,text,true,,5449,209,64,64,http://localhost:8080/api/materials/quiz,5,0,0
+1794012032389,326,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-48,text,true,,6835,483,65,65,http://localhost:8080/classroom.html,320,0,1
+1794012032389,320,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-48,,true,,413,278,65,65,http://localhost:8080/perform_login,320,0,1
+1794012032709,6,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-48,text,true,,6422,205,65,65,http://localhost:8080/classroom.html,6,0,0
+1794012032712,7,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-17,text,true,,5449,209,65,65,http://localhost:8080/api/materials/quiz,7,0,0
+1794012032750,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-16,text,true,,5449,209,65,65,http://localhost:8080/api/materials/quiz,4,0,0
+1794012032761,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-35,text,true,,6422,205,65,65,http://localhost:8080/classroom.html,3,0,0
+1794012032775,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-19,text,true,,5449,209,65,65,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032809,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-28,text,true,,6422,205,66,66,http://localhost:8080/classroom.html,5,0,0
+1794012032822,6,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-27,text,true,,5449,209,66,66,http://localhost:8080/api/materials/quiz,6,0,0
+1794012032551,281,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-53,text,true,,6835,483,66,66,http://localhost:8080/classroom.html,276,0,1
+1794012032551,276,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-53,,true,,413,278,66,66,http://localhost:8080/perform_login,276,0,1
+1794012032828,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-53,text,true,,6422,205,66,66,http://localhost:8080/classroom.html,4,0,0
+1794012032839,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-21,text,true,,5449,209,66,66,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032917,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-36,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,2,0,0
+1794012032917,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-6,text,true,,79226,213,67,67,http://localhost:8080/api/materials/document,4,0,0
+1794012033012,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-3,text,true,,79226,213,68,68,http://localhost:8080/api/materials/document,3,0,0
+1794012032605,452,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-52,text,true,,6835,483,68,68,http://localhost:8080/classroom.html,449,0,4
+1794012032605,449,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-52,,true,,413,278,68,68,http://localhost:8080/perform_login,449,0,4
+1794012033055,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-52,text,true,,6422,205,68,68,http://localhost:8080/classroom.html,2,0,0
+1794012033061,18,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-1,text,true,,79226,213,68,68,http://localhost:8080/api/materials/document,18,0,0
+1794012033152,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-43,text,true,,6422,205,69,69,http://localhost:8080/classroom.html,3,0,0
+1794012033167,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-20,text,true,,5449,209,69,69,http://localhost:8080/api/materials/quiz,3,0,0
+1794012032670,502,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-47,text,true,,6835,483,69,69,http://localhost:8080/classroom.html,497,0,10
+1794012032670,497,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-47,,true,,413,278,69,69,http://localhost:8080/perform_login,497,0,10
+1794012033167,5,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-47,text,true,,6422,205,69,69,http://localhost:8080/classroom.html,5,0,0
+1794012033181,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-15,text,true,,5449,209,69,69,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033184,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-11,text,true,,79226,213,69,69,http://localhost:8080/api/materials/document,4,0,0
+1794012033200,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-40,text,true,,6422,205,70,70,http://localhost:8080/classroom.html,3,0,0
+1794012033263,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-39,text,true,,6422,205,70,70,http://localhost:8080/classroom.html,3,0,0
+1794012033294,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-34,text,true,,5449,209,71,71,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033294,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-14,text,true,,79226,213,71,71,http://localhost:8080/api/materials/document,3,0,0
+1794012033310,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-26,text,true,,5449,209,71,71,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033310,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-4,text,true,,79226,213,71,71,http://localhost:8080/api/materials/document,3,0,0
+1794012033326,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-24,text,true,,5449,209,71,71,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033167,174,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-51,text,true,,6835,483,71,71,http://localhost:8080/classroom.html,172,0,1
+1794012033167,172,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-51,,true,,413,278,71,71,http://localhost:8080/perform_login,172,0,1
+1794012033339,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-51,text,true,,6422,205,71,71,http://localhost:8080/classroom.html,2,0,0
+1794012033187,154,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-50,text,true,,6835,483,71,71,http://localhost:8080/classroom.html,152,0,4
+1794012033187,152,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-50,,true,,413,278,71,71,http://localhost:8080/perform_login,152,0,4
+1794012033339,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-50,text,true,,6422,205,71,71,http://localhost:8080/classroom.html,2,0,0
+1794012033152,195,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-57,text,true,,6835,483,71,71,http://localhost:8080/classroom.html,192,0,9
+1794012033152,192,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-57,,true,,413,278,71,71,http://localhost:8080/perform_login,192,0,9
+1794012033345,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-57,text,true,,6422,205,71,71,http://localhost:8080/classroom.html,2,0,0
+1794012033388,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-8,text,true,,79226,213,72,72,http://localhost:8080/api/materials/document,3,0,0
+1794012033418,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-37,text,true,,6422,205,72,72,http://localhost:8080/classroom.html,3,0,0
+1794012033418,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-7,text,true,,79226,213,72,72,http://localhost:8080/api/materials/document,3,0,0
+1794012033388,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-56,text,true,,6835,483,73,73,http://localhost:8080/classroom.html,116,0,1
+1794012033388,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-56,,true,,413,278,73,73,http://localhost:8080/perform_login,116,0,1
+1794012033505,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-56,text,true,,6422,205,73,73,http://localhost:8080/classroom.html,3,0,0
+1794012033388,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-55,text,true,,6835,483,73,73,http://localhost:8080/classroom.html,119,0,1
+1794012033388,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-55,,true,,413,278,73,73,http://localhost:8080/perform_login,119,0,1
+1794012033507,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-55,text,true,,6422,205,73,73,http://localhost:8080/classroom.html,2,0,0
+1794012033558,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-2,text,true,,79226,213,73,73,http://localhost:8080/api/materials/document,4,0,0
+1794012033558,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-5,text,true,,79226,213,73,73,http://localhost:8080/api/materials/document,4,0,0
+1794012033574,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-13,text,true,,79226,213,73,73,http://localhost:8080/api/materials/document,3,0,0
+1794012033589,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-31,text,true,,5449,209,74,74,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033605,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-25,text,true,,5449,209,74,74,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033621,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-38,text,true,,6422,205,74,74,http://localhost:8080/classroom.html,3,0,0
+1794012033637,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-30,text,true,,5449,209,74,74,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033513,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-60,text,true,,6835,483,74,74,http://localhost:8080/classroom.html,126,0,1
+1794012033513,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-60,,true,,413,278,74,74,http://localhost:8080/perform_login,126,0,1
+1794012033639,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-60,text,true,,6422,205,74,74,http://localhost:8080/classroom.html,2,0,0
+1794012033652,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-32,text,true,,5449,209,74,74,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033652,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-9,text,true,,79226,213,74,74,http://localhost:8080/api/materials/document,3,0,0
+1794012033529,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-63,text,true,,6835,483,74,74,http://localhost:8080/classroom.html,127,0,1
+1794012033529,127,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-63,,true,,413,278,74,74,http://localhost:8080/perform_login,127,0,1
+1794012033656,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-63,text,true,,6422,205,74,74,http://localhost:8080/classroom.html,2,0,0
+1794012033667,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-23,text,true,,79226,213,74,74,http://localhost:8080/api/materials/document,3,0,0
+1794012033698,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-41,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012033698,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-46,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012033574,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-54,text,true,,6835,483,75,75,http://localhost:8080/classroom.html,126,0,1
+1794012033574,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-54,,true,,413,278,75,75,http://localhost:8080/perform_login,126,0,1
+1794012033701,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-54,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,2,0,0
+1794012033621,125,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-58,text,true,,6835,483,75,75,http://localhost:8080/classroom.html,122,0,1
+1794012033621,122,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-58,,true,,413,278,75,75,http://localhost:8080/perform_login,122,0,1
+1794012033743,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-58,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012033744,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-12,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,2,0,0
+1794012033759,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-29,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033668,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-59,text,true,,6835,483,76,76,http://localhost:8080/classroom.html,119,0,1
+1794012033668,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-59,,true,,413,278,76,76,http://localhost:8080/perform_login,119,0,1
+1794012033787,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-59,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012033791,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-22,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,3,0,0
+1794012033822,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-33,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,3,0,0
+1794012033854,2,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-10,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,2,0,0
+1794012033792,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-65,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,112,0,1
+1794012033792,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-65,,true,,413,278,77,77,http://localhost:8080/perform_login,112,0,1
+1794012033905,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-65,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,1,0,0
+1794012033948,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-48,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012033978,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-44,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,4,0,0
+1794012033993,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-21,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,4,0,0
+1794012034009,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-42,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012033900,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-64,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,112,0,1
+1794012033900,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-64,,true,,413,278,78,78,http://localhost:8080/perform_login,112,0,1
+1794012034012,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-64,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012034040,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-45,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,4,0,0
+1794012034040,6,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-16,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,5,0,0
+1794012034055,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-36,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,4,0,0
+1794012034087,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-68,text,true,,6835,483,80,80,http://localhost:8080/classroom.html,119,0,1
+1794012034087,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-68,,true,,413,278,80,80,http://localhost:8080/perform_login,119,0,1
+1794012034206,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-68,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012034210,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-49,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012034288,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-47,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,2,0,0
+1794012034288,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-1,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,3,0,0
+1794012034303,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-17,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,3,0,0
+1794012034195,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-61,text,true,,6835,483,80,80,http://localhost:8080/classroom.html,118,0,2
+1794012034195,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-61,,true,,413,278,80,80,http://localhost:8080/perform_login,118,0,2
+1794012034313,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-61,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012034318,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-15,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,2,0,0
+1794012034333,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-28,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,3,0,0
+1794012034333,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-18,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,3,0,0
+1794012034428,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-35,text,true,,5449,209,81,81,http://localhost:8080/api/materials/quiz,4,0,0
+1794012034490,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-43,text,true,,5449,209,82,82,http://localhost:8080/api/materials/quiz,3,0,0
+1794012034505,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-50,text,true,,6422,205,82,82,http://localhost:8080/classroom.html,2,0,0
+1794012034505,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-53,text,true,,6422,205,82,82,http://localhost:8080/classroom.html,2,0,0
+1794012034505,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-24,text,true,,79226,213,82,82,http://localhost:8080/api/materials/document,3,0,0
+1794012034505,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-27,text,true,,79226,213,82,82,http://localhost:8080/api/materials/document,3,0,0
+1794012034382,143,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-62,text,true,,6835,483,82,82,http://localhost:8080/classroom.html,141,0,1
+1794012034382,141,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-62,,true,,413,278,82,82,http://localhost:8080/perform_login,141,0,1
+1794012034523,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-62,text,true,,6422,205,82,82,http://localhost:8080/classroom.html,2,0,0
+1794012034551,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-52,text,true,,6422,205,82,82,http://localhost:8080/classroom.html,3,0,0
+1794012034551,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-19,text,true,,79226,213,82,82,http://localhost:8080/api/materials/document,3,0,0
+1794012034413,146,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-66,text,true,,6835,483,82,82,http://localhost:8080/classroom.html,144,0,2
+1794012034413,144,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-66,,true,,413,278,82,82,http://localhost:8080/perform_login,144,0,2
+1794012034557,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-66,text,true,,6422,205,82,82,http://localhost:8080/classroom.html,2,0,0
+1794012034567,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-6,bin,true,,1048938,234,82,82,http://localhost:8080/api/materials/video,2,0,0
+1794012034582,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-2,bin,true,,1048938,234,82,82,http://localhost:8080/api/materials/video,3,0,0
+1794012034598,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-8,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,4,0,0
+1794012034505,134,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-71,text,true,,6835,483,80,80,http://localhost:8080/classroom.html,132,0,2
+1794012034505,132,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-71,,true,,413,278,80,80,http://localhost:8080/perform_login,132,0,2
+1794012034637,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-71,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012034645,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-25,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,2,0,0
+1794012034521,129,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-70,text,true,,6835,483,80,80,http://localhost:8080/classroom.html,126,0,1
+1794012034521,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-70,,true,,413,278,80,80,http://localhost:8080/perform_login,126,0,1
+1794012034647,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-70,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012034645,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-3,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,2,0,0
+1794012034645,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-14,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,3,0,0
+1794012034676,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-34,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012034614,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-73,text,true,,6835,483,79,79,http://localhost:8080/classroom.html,118,0,1
+1794012034614,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-73,,true,,413,278,79,79,http://localhost:8080/perform_login,118,0,1
+1794012034733,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-73,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012034740,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-55,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012034740,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-41,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012034646,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-67,text,true,,6835,483,79,79,http://localhost:8080/classroom.html,117,0,1
+1794012034646,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-67,,true,,413,278,79,79,http://localhost:8080/perform_login,117,0,1
+1794012034764,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-67,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012034880,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-57,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,4,0,0
+1794012034880,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-54,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,4,0,0
+1794012034770,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-69,text,true,,6835,483,81,81,http://localhost:8080/classroom.html,113,0,1
+1794012034770,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-69,,true,,413,278,81,81,http://localhost:8080/perform_login,113,0,1
+1794012034883,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-69,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,2,0,0
+1794012034895,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-26,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,5,0,0
+1794012034910,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-4,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,4,0,0
+1794012034925,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-32,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012034925,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-31,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012034925,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-7,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012034955,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-51,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,4,0,0
+1794012035034,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-40,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,5,0,0
+1794012034941,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-72,text,true,,6835,483,80,80,http://localhost:8080/classroom.html,115,0,2
+1794012034941,115,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-72,,true,,413,278,80,80,http://localhost:8080/perform_login,115,0,2
+1794012035057,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-72,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012035082,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-58,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,3,0,0
+1794012035082,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-29,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,4,0,0
+1794012035097,8,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-33,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,3,0,0
+1794012035097,9,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-20,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,9,0,0
+1794012035097,11,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-10,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,3,0,0
+1794012035113,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-59,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012035129,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-39,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,3,0,0
+1794012035129,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-5,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,3,0,0
+1794012035159,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-46,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012035159,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-30,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,3,0,0
+1794012035159,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-11,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,3,0,0
+1794012035050,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-75,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,118,0,2
+1794012035050,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-75,,true,,413,278,78,78,http://localhost:8080/perform_login,118,0,2
+1794012035168,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-75,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012035050,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-76,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,119,0,2
+1794012035050,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-76,,true,,413,278,78,78,http://localhost:8080/perform_login,119,0,2
+1794012035169,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-76,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012035190,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-13,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,5,0,0
+1794012035206,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-37,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,4,0,0
+1794012035206,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-16,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,4,0,0
+1794012035222,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-63,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,4,0,0
+1794012035269,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-22,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,5,0,0
+1794012035298,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-65,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,5,0,0
+1794012035298,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-23,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,5,0,0
+1794012035394,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-9,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012035426,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-60,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012035347,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-74,text,true,,6835,483,76,76,http://localhost:8080/classroom.html,118,0,2
+1794012035347,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-74,,true,,413,278,76,76,http://localhost:8080/perform_login,118,0,2
+1794012035466,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-74,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012035472,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-56,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,4,0,0
+1794012035472,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-38,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,4,0,0
+1794012035488,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-45,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,3,0,0
+1794012035395,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-78,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,117,0,2
+1794012035395,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-78,,true,,413,278,77,77,http://localhost:8080/perform_login,117,0,2
+1794012035513,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-78,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012035411,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-81,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,117,0,1
+1794012035411,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-81,,true,,413,278,77,77,http://localhost:8080/perform_login,117,0,1
+1794012035528,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-81,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012035566,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-61,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012035489,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-82,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,112,0,1
+1794012035489,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-82,,true,,413,278,78,78,http://localhost:8080/perform_login,112,0,1
+1794012035601,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-82,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012035614,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-42,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,2,0,0
+1794012035614,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-53,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,2,0,0
+1794012035629,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-48,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,2,0,0
+1794012035660,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-50,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012035660,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-44,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012035660,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-35,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,3,0,0
+1794012035566,108,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-77,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,105,0,1
+1794012035566,105,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-77,,true,,413,278,78,78,http://localhost:8080/perform_login,105,0,1
+1794012035671,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-77,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012035691,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-12,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012035691,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-15,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012035708,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-68,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012035754,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-17,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012035817,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-66,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012035816,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-64,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012035708,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-80,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,112,0,1
+1794012035708,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-80,,true,,413,278,77,77,http://localhost:8080/perform_login,112,0,1
+1794012035820,6,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-80,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,6,0,0
+1794012035771,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-79,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,116,0,1
+1794012035771,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-79,,true,,413,278,78,78,http://localhost:8080/perform_login,116,0,1
+1794012035888,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-79,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012035910,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-21,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,3,0,0
+1794012035910,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-34,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,3,0,0
+1794012035926,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-71,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012035958,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-25,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,4,0,0
+1794012035973,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-19,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,4,0,0
+1794012035989,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-51,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036036,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-36,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012036036,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-57,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036052,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-47,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036052,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-18,bin,true,,1048938,234,75,75,http://localhost:8080/api/materials/video,4,0,0
+1794012036100,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-73,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,5,0,0
+1794012036131,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-41,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012036037,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-85,text,true,,6835,483,75,75,http://localhost:8080/classroom.html,118,0,2
+1794012036037,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-85,,true,,413,278,75,75,http://localhost:8080/perform_login,118,0,2
+1794012036156,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-85,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012036162,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-59,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,3,0,0
+1794012036177,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-43,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012036177,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-49,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036100,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-88,text,true,,6835,483,76,76,http://localhost:8080/classroom.html,117,0,3
+1794012036100,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-88,,true,,413,278,76,76,http://localhost:8080/perform_login,117,0,3
+1794012036217,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-88,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012036257,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-27,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,3,0,0
+1794012036273,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-62,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012036273,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-20,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,3,0,0
+1794012036289,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-67,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012036289,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-28,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012036382,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-52,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,3,0,0
+1794012036382,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-40,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,3,0,0
+1794012036428,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-72,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012036428,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-46,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012036428,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-37,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012036428,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-24,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,4,0,0
+1794012036322,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-83,text,true,,6835,483,75,75,http://localhost:8080/classroom.html,114,0,2
+1794012036322,114,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-83,,true,,413,278,75,75,http://localhost:8080/perform_login,114,0,2
+1794012036436,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-83,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,3,0,0
+1794012036443,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-39,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,3,0,0
+1794012036459,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-54,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,3,0,0
+1794012036507,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-70,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012036553,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-65,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036553,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-26,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,4,0,0
+1794012036585,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-69,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012036616,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-76,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,4,0,0
+1794012036647,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-55,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,3,0,0
+1794012036647,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-74,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012036539,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-90,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,124,0,2
+1794012036539,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-93,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,124,0,2
+1794012036539,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-90,,true,,413,278,77,77,http://localhost:8080/perform_login,124,0,2
+1794012036539,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-93,,true,,413,278,77,77,http://localhost:8080/perform_login,124,0,2
+1794012036663,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-90,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012036663,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-93,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012036679,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-50,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,3,0,0
+1794012036586,116,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-84,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,114,0,1
+1794012036586,114,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-84,,true,,413,278,77,77,http://localhost:8080/perform_login,114,0,1
+1794012036700,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-84,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012036602,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-87,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,112,0,1
+1794012036602,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-87,,true,,413,278,77,77,http://localhost:8080/perform_login,112,0,1
+1794012036714,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-87,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012036744,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-78,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012036744,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-58,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,3,0,0
+1794012036744,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-32,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,3,0,0
+1794012036633,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-91,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,117,0,2
+1794012036633,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-91,,true,,413,278,77,77,http://localhost:8080/perform_login,117,0,2
+1794012036751,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-91,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012036822,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-60,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036712,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-86,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,116,0,1
+1794012036712,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-86,,true,,413,278,77,77,http://localhost:8080/perform_login,116,0,1
+1794012036828,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-86,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012036838,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-64,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,5,0,0
+1794012036854,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-80,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012036854,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-31,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012036886,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-33,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012036902,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-53,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012036932,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-38,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012036963,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-29,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012036995,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-63,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,4,0,0
+1794012036886,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-94,text,true,,6835,483,76,76,http://localhost:8080/classroom.html,117,0,2
+1794012036886,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-94,,true,,413,278,76,76,http://localhost:8080/perform_login,117,0,2
+1794012037004,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-94,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012037011,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-82,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012037011,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-30,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,4,0,0
+1794012037025,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-75,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,5,0,0
+1794012036932,124,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-89,text,true,,6835,483,75,75,http://localhost:8080/classroom.html,120,0,2
+1794012036932,120,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-89,,true,,413,278,75,75,http://localhost:8080/perform_login,120,0,2
+1794012037052,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-89,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,4,0,0
+1794012037057,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-36,bin,true,,1048938,234,75,75,http://localhost:8080/api/materials/video,4,0,0
+1794012037072,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-61,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037072,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-56,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037104,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-44,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012037149,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-42,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012037149,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-48,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,4,0,0
+1794012037164,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-79,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,4,0,0
+1794012037059,123,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-92,text,true,,6835,483,76,76,http://localhost:8080/classroom.html,119,0,2
+1794012037059,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-92,,true,,413,278,76,76,http://localhost:8080/perform_login,119,0,2
+1794012037178,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-92,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,4,0,0
+1794012037242,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-59,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012037258,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-68,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037289,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-81,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,4,0,0
+1794012037289,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-41,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012037366,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-45,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,3,0,0
+1794012037414,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-49,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,4,0,0
+1794012037352,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-98,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,118,0,3
+1794012037352,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-98,,true,,413,278,78,78,http://localhost:8080/perform_login,118,0,3
+1794012037470,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-98,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012037367,113,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-96,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,111,0,2
+1794012037367,111,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-96,,true,,413,278,78,78,http://localhost:8080/perform_login,111,0,2
+1794012037478,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-96,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012037383,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-97,text,true,,6835,483,78,78,http://localhost:8080/classroom.html,118,0,2
+1794012037383,118,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-97,,true,,413,278,78,78,http://localhost:8080/perform_login,118,0,2
+1794012037501,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-97,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012037526,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-62,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012037541,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-39,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,3,0,0
+1794012037556,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-67,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037556,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-35,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012037587,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-77,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,4,0,0
+1794012037604,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-47,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,4,0,0
+1794012037618,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-43,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012037511,116,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-101,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,113,0,1
+1794012037511,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-101,,true,,413,279,77,77,http://localhost:8080/perform_login,113,0,1
+1794012037511,116,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-95,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,113,0,1
+1794012037625,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-101,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012037511,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-95,,true,,413,278,77,77,http://localhost:8080/perform_login,113,0,1
+1794012037624,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-95,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012037666,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-88,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012037588,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-104,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,114,0,2
+1794012037588,114,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-104,,true,,413,279,77,77,http://localhost:8080/perform_login,114,0,2
+1794012037702,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-104,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,1,0,0
+1794012037711,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-83,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012037743,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-73,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,3,0,0
+1794012037790,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-66,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,5,0,0
+1794012037806,11,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-28,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,4,0,0
+1794012037820,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-71,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037852,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-86,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012037867,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-46,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,2,0,0
+1794012037883,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-51,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,3,0,0
+1794012037883,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-57,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,3,0,0
+1794012037915,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-84,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012037915,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-60,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,5,0,0
+1794012037931,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-85,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012037821,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-99,text,true,,6835,483,77,77,http://localhost:8080/classroom.html,112,0,2
+1794012037821,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-99,,true,,413,278,77,77,http://localhost:8080/perform_login,112,0,2
+1794012037934,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-99,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,1,0,0
+1794012037946,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-78,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,3,0,0
+1794012037962,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-80,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012037962,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-72,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,5,0,0
+1794012037993,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-74,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038024,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-70,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,4,0,0
+1794012037963,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-107,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,116,0,2
+1794012037963,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-107,,true,,413,279,79,79,http://localhost:8080/perform_login,116,0,2
+1794012038081,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-107,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012037978,110,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-100,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,107,0,2
+1794012037978,107,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-100,,true,,413,279,79,79,http://localhost:8080/perform_login,107,0,2
+1794012038086,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-100,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038085,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-65,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012038101,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-93,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012038117,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-50,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012038133,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-37,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,4,0,0
+1794012038164,11,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-53,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,5,0,0
+1794012038227,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-40,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,5,0,0
+1794012038243,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-90,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012038243,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-54,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,3,0,0
+1794012038274,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-44,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,5,0,0
+1794012038336,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-52,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,3,0,0
+1794012038228,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-106,text,true,,6835,484,76,76,http://localhost:8080/classroom.html,116,0,2
+1794012038228,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-106,,true,,413,279,76,76,http://localhost:8080/perform_login,116,0,2
+1794012038344,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-106,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012038367,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-64,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,4,0,0
+1794012038367,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-82,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,4,0,0
+1794012038415,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-58,text,true,,79226,213,77,77,http://localhost:8080/api/materials/document,3,0,0
+1794012038321,127,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-103,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,125,0,2
+1794012038321,125,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-103,,true,,413,279,77,77,http://localhost:8080/perform_login,125,0,2
+1794012038446,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-103,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012038462,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-81,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038478,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-76,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038478,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-69,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038368,125,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-102,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,122,0,2
+1794012038368,122,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-102,,true,,413,279,78,78,http://localhost:8080/perform_login,122,0,2
+1794012038490,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-102,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012038509,1,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-89,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,1,0,0
+1794012038539,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-87,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012038555,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-91,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012038463,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-105,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,117,0,2
+1794012038463,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-105,,true,,413,279,79,79,http://localhost:8080/perform_login,117,0,2
+1794012038580,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-105,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038586,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-92,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038479,109,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-109,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,108,0,1
+1794012038479,108,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-109,,true,,413,279,79,79,http://localhost:8080/perform_login,108,0,1
+1794012038587,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-109,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,1,0,0
+1794012038479,114,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-113,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,112,0,1
+1794012038479,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-113,,true,,413,279,79,79,http://localhost:8080/perform_login,112,0,1
+1794012038591,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-113,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038602,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-61,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,3,0,0
+1794012038602,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-56,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,3,0,0
+1794012038633,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-55,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012038649,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-95,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038649,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-48,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012038665,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-38,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,3,0,0
+1794012038712,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-77,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,4,0,0
+1794012038774,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-94,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038665,111,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-108,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,108,0,2
+1794012038665,108,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-108,,true,,413,279,79,79,http://localhost:8080/perform_login,108,0,2
+1794012038773,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-108,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012038791,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-98,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038791,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-88,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,5,0,0
+1794012038806,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-62,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012038806,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-45,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012038852,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-63,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012038867,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-75,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038810,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-116,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,116,0,2
+1794012038810,116,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-116,,true,,413,279,79,79,http://localhost:8080/perform_login,116,0,2
+1794012038927,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-116,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038930,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-96,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012038930,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-79,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012038994,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-57,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012039025,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-85,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012039057,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-83,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,3,0,0
+1794012039103,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-72,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039103,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-42,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012038996,125,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-118,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,122,0,1
+1794012038996,122,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-118,,true,,413,279,79,79,http://localhost:8080/perform_login,122,0,1
+1794012039118,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-118,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012038996,133,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-110,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,131,0,1
+1794012038996,131,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-110,,true,,413,279,79,79,http://localhost:8080/perform_login,131,0,1
+1794012039127,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-110,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012039011,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-111,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,125,0,2
+1794012039011,125,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-111,,true,,413,279,79,79,http://localhost:8080/perform_login,125,0,2
+1794012039136,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-111,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,1,0,0
+1794012039135,13,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-59,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,3,0,0
+1794012039026,134,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-114,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,131,0,1
+1794012039026,131,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-114,,true,,413,279,79,79,http://localhost:8080/perform_login,131,0,1
+1794012039158,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-114,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012039057,121,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-115,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,119,0,2
+1794012039057,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-115,,true,,413,279,79,79,http://localhost:8080/perform_login,119,0,2
+1794012039176,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-115,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012039057,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-117,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,126,0,2
+1794012039057,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-117,,true,,413,279,79,79,http://localhost:8080/perform_login,126,0,2
+1794012039183,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-117,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012039228,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-84,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,4,0,0
+1794012039259,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-67,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039259,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-68,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039308,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-80,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039339,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-99,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012039339,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-97,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012039309,112,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-112,text,true,,6835,484,81,81,http://localhost:8080/classroom.html,110,0,1
+1794012039309,110,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-112,,true,,413,279,81,81,http://localhost:8080/perform_login,110,0,1
+1794012039419,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-112,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,2,0,0
+1794012039417,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-49,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,4,0,0
+1794012039449,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-90,text,true,,5449,209,81,81,http://localhost:8080/api/materials/quiz,4,0,0
+1794012039480,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-78,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,4,0,0
+1794012039480,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-47,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,4,0,0
+1794012039512,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-101,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012039418,132,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-121,text,true,,6835,484,80,80,http://localhost:8080/classroom.html,129,0,2
+1794012039418,129,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-121,,true,,413,279,80,80,http://localhost:8080/perform_login,129,0,2
+1794012039548,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-121,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012039450,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-119,text,true,,6835,484,81,81,http://localhost:8080/classroom.html,126,0,1
+1794012039450,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-119,,true,,413,279,81,81,http://localhost:8080/perform_login,126,0,1
+1794012039577,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-119,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,1,0,0
+1794012039481,112,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-120,text,true,,6835,484,81,81,http://localhost:8080/classroom.html,110,0,2
+1794012039481,110,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-120,,true,,413,279,81,81,http://localhost:8080/perform_login,110,0,2
+1794012039591,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-120,text,true,,6422,205,81,81,http://localhost:8080/classroom.html,2,0,0
+1794012039622,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-71,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,3,0,0
+1794012039636,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-74,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,3,0,0
+1794012039652,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-65,bin,true,,1048938,234,82,82,http://localhost:8080/api/materials/video,3,0,0
+1794012039667,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-51,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,3,0,0
+1794012039683,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-104,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012039683,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-73,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,3,0,0
+1794012039714,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-60,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012039622,108,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-123,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,104,0,3
+1794012039622,104,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-123,,true,,413,279,79,79,http://localhost:8080/perform_login,104,0,3
+1794012039726,4,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-123,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,4,0,0
+1794012039731,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-86,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,3,0,0
+1794012039731,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-113,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012039762,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-107,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,3,0,0
+1794012039762,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-66,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039792,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-91,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,4,0,0
+1794012039838,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-69,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,3,0,0
+1794012039899,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-70,text,true,,79226,213,81,81,http://localhost:8080/api/materials/document,3,0,0
+1794012039914,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-55,bin,true,,1048938,234,81,81,http://localhost:8080/api/materials/video,4,0,0
+1794012039930,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-108,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,4,0,0
+1794012039930,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-82,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039930,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-61,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012039946,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-109,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012039946,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-81,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,3,0,0
+1794012039976,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-75,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,4,0,0
+1794012039976,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-54,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,4,0,0
+1794012039992,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-100,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012039992,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-63,bin,true,,1048938,234,79,79,http://localhost:8080/api/materials/video,4,0,0
+1794012040008,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-94,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,4,0,0
+1794012040023,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-87,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012040023,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-52,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,3,0,0
+1794012040055,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-62,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,4,0,0
+1794012040071,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-106,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012040102,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-64,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,4,0,0
+1794012040117,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-93,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,4,0,0
+1794012040118,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-124,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,112,0,2
+1794012040118,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-124,,true,,413,279,77,77,http://localhost:8080/perform_login,112,0,2
+1794012040230,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-124,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,3,0,0
+1794012040134,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-125,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,123,0,2
+1794012040134,123,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-125,,true,,413,279,78,78,http://localhost:8080/perform_login,123,0,2
+1794012040257,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-125,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012040257,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-79,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,3,0,0
+1794012040257,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-84,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,3,0,0
+1794012040134,135,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-126,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,132,0,2
+1794012040134,132,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-126,,true,,413,279,78,78,http://localhost:8080/perform_login,132,0,2
+1794012040266,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-126,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012040273,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-85,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,3,0,0
+1794012040150,139,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-127,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,135,0,1
+1794012040150,135,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-127,,true,,413,279,78,78,http://localhost:8080/perform_login,135,0,1
+1794012040286,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-127,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012040288,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-92,text,true,,5449,209,78,78,http://localhost:8080/api/materials/quiz,3,0,0
+1794012040303,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-76,text,true,,79226,213,78,78,http://localhost:8080/api/materials/document,4,0,0
+1794012040319,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-103,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,3,0,0
+1794012040367,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-105,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,2,0,0
+1794012040366,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-102,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,5,0,0
+1794012040274,140,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-122,text,true,,6835,484,79,79,http://localhost:8080/classroom.html,137,0,2
+1794012040274,137,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-122,,true,,413,279,79,79,http://localhost:8080/perform_login,137,0,2
+1794012040411,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-122,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012040414,48,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-58,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,3,0,0
+1794012040477,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-89,text,true,,5449,209,79,79,http://localhost:8080/api/materials/quiz,4,0,0
+1794012040524,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-88,text,true,,79226,213,79,79,http://localhost:8080/api/materials/document,4,0,0
+1794012040555,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-96,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,3,0,0
+1794012040369,190,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-130,text,true,,6835,484,80,80,http://localhost:8080/classroom.html,187,0,4
+1794012040369,187,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-130,,true,,413,279,80,80,http://localhost:8080/perform_login,187,0,4
+1794012040557,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-130,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012040570,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-95,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,2,0,0
+1794012040586,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-101,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,2,0,0
+1794012040617,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-56,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,3,0,0
+1794012040696,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-77,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,2,0,0
+1794012040712,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-98,text,true,,5449,209,80,80,http://localhost:8080/api/materials/quiz,2,0,0
+1794012040712,6,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-71,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,2,0,0
+1794012040727,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-117,text,true,,6422,205,79,79,http://localhost:8080/classroom.html,3,0,0
+1794012040743,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-83,text,true,,79226,213,80,80,http://localhost:8080/api/materials/document,2,0,0
+1794012040759,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-121,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,2,0,0
+1794012040775,1,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-118,text,true,,6422,205,80,80,http://localhost:8080/classroom.html,1,0,0
+1794012040791,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-68,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,2,0,0
+1794012040791,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-78,bin,true,,1048938,234,80,80,http://localhost:8080/api/materials/video,2,0,0
+1794012040806,1,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-116,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,1,0,0
+1794012040806,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-67,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,2,0,0
+1794012040697,123,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-135,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,121,0,1
+1794012040697,121,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-135,,true,,413,279,77,77,http://localhost:8080/perform_login,121,0,1
+1794012040818,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-135,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012040836,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-110,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012040836,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-99,text,true,,5449,209,77,77,http://localhost:8080/api/materials/quiz,2,0,0
+1794012040882,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-111,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012040882,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-120,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,2,0,0
+1794012040776,112,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-128,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,110,0,1
+1794012040776,110,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-128,,true,,413,279,78,78,http://localhost:8080/perform_login,110,0,1
+1794012040887,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-128,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,1,0,0
+1794012040759,131,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-134,text,true,,6835,484,78,78,http://localhost:8080/classroom.html,130,0,1
+1794012040759,130,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-134,,true,,413,279,78,78,http://localhost:8080/perform_login,130,0,1
+1794012040889,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-134,text,true,,6422,205,78,78,http://localhost:8080/classroom.html,1,0,0
+1794012040897,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-74,bin,true,,1048938,234,78,78,http://localhost:8080/api/materials/video,2,0,0
+1794012040791,123,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-136,text,true,,6835,484,77,77,http://localhost:8080/classroom.html,120,0,1
+1794012040791,120,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-136,,true,,413,279,77,77,http://localhost:8080/perform_login,120,0,1
+1794012040912,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-136,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,1,0,0
+1794012040929,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-69,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,3,0,0
+1794012040944,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-119,text,true,,6422,205,77,77,http://localhost:8080/classroom.html,2,0,0
+1794012040944,6,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-80,bin,true,,1048938,234,77,77,http://localhost:8080/api/materials/video,3,0,0
+1794012040960,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-72,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,3,0,0
+1794012040976,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-114,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,2,0,0
+1794012040897,109,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-129,text,true,,6835,484,75,75,http://localhost:8080/classroom.html,107,0,1
+1794012040897,107,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-129,,true,,413,279,75,75,http://localhost:8080/perform_login,107,0,1
+1794012041004,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-129,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,2,0,0
+1794012041023,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-86,text,true,,79226,213,75,75,http://localhost:8080/api/materials/document,2,0,0
+1794012041053,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-90,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,4,0,0
+1794012041070,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-97,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041115,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-73,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,5,0,0
+1794012041161,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-115,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,5,0,0
+1794012041070,123,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-131,text,true,,6835,484,76,76,http://localhost:8080/classroom.html,119,0,3
+1794012041070,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-131,,true,,413,279,76,76,http://localhost:8080/perform_login,119,0,3
+1794012041190,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-131,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,3,0,0
+1794012041253,2,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-93,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,2,0,0
+1794012041284,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-123,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012041284,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-112,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012041178,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-133,text,true,,6835,484,76,76,http://localhost:8080/classroom.html,115,0,2
+1794012041178,115,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-133,,true,,413,279,76,76,http://localhost:8080/perform_login,115,0,2
+1794012041293,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-133,text,true,,6422,205,76,76,http://localhost:8080/classroom.html,2,0,0
+1794012041316,2,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-87,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,2,0,0
+1794012041331,2,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-94,text,true,,79226,213,76,76,http://localhost:8080/api/materials/document,2,0,0
+1794012041346,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-104,text,true,,5449,209,76,76,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041362,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-81,bin,true,,1048938,234,76,76,http://localhost:8080/api/materials/video,2,0,0
+1794012041269,115,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-132,text,true,,6835,484,75,75,http://localhost:8080/classroom.html,113,0,1
+1794012041269,113,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-132,,true,,413,279,75,75,http://localhost:8080/perform_login,113,0,1
+1794012041383,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-132,text,true,,6422,205,75,75,http://localhost:8080/classroom.html,1,0,0
+1794012041393,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-108,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041393,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-113,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041408,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-106,text,true,,5449,209,75,75,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041439,6,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-79,bin,true,,1048938,234,75,75,http://localhost:8080/api/materials/video,3,0,0
+1794012041471,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-127,text,true,,6422,205,74,74,http://localhost:8080/classroom.html,2,0,0
+1794012041502,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-91,text,true,,79226,213,74,74,http://localhost:8080/api/materials/document,2,0,0
+1794012041533,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-92,text,true,,79226,213,74,74,http://localhost:8080/api/materials/document,2,0,0
+1794012041533,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-70,bin,true,,1048938,234,74,74,http://localhost:8080/api/materials/video,2,0,0
+1794012041519,107,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-142,text,true,,6835,484,73,73,http://localhost:8080/classroom.html,105,0,1
+1794012041519,105,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-142,,true,,413,279,73,73,http://localhost:8080/perform_login,105,0,1
+1794012041624,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-142,text,true,,6422,205,73,73,http://localhost:8080/classroom.html,2,0,0
+1794012041674,1,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-125,text,true,,6422,205,73,73,http://localhost:8080/classroom.html,1,0,0
+1794012041674,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-75,bin,true,,1048938,234,73,73,http://localhost:8080/api/materials/video,2,0,0
+1794012041582,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-138,text,true,,6835,484,72,72,http://localhost:8080/classroom.html,117,0,1
+1794012041582,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-138,,true,,413,279,72,72,http://localhost:8080/perform_login,117,0,1
+1794012041700,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-138,text,true,,6422,205,72,72,http://localhost:8080/classroom.html,2,0,0
+1794012041719,6,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-82,bin,true,,1048938,234,72,72,http://localhost:8080/api/materials/video,3,0,0
+1794012041735,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-66,bin,true,,1048938,234,71,71,http://localhost:8080/api/materials/video,3,0,0
+1794012041751,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-124,text,true,,6422,205,70,70,http://localhost:8080/classroom.html,3,0,0
+1794012041766,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-107,text,true,,5449,209,70,70,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041766,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-85,bin,true,,1048938,234,70,70,http://localhost:8080/api/materials/video,3,0,0
+1794012041782,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-100,text,true,,5449,209,69,69,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041798,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-84,bin,true,,1048938,234,69,69,http://localhost:8080/api/materials/video,3,0,0
+1794012041828,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-103,text,true,,5449,209,68,68,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041828,2,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-121,text,true,,5449,209,68,68,http://localhost:8080/api/materials/quiz,2,0,0
+1794012041705,127,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-145,text,true,,6835,484,68,68,http://localhost:8080/classroom.html,125,0,1
+1794012041705,125,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-145,,true,,413,279,68,68,http://localhost:8080/perform_login,125,0,1
+1794012041830,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-145,text,true,,6422,205,68,68,http://localhost:8080/classroom.html,2,0,0
+1794012041844,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-116,text,true,,5449,209,68,68,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041844,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-88,bin,true,,1048938,234,68,68,http://localhost:8080/api/materials/video,3,0,0
+1794012041860,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-109,text,true,,5449,209,67,67,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041860,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-117,text,true,,5449,209,67,67,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041736,128,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-141,text,true,,6835,484,67,67,http://localhost:8080/classroom.html,126,0,1
+1794012041736,126,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-141,,true,,413,279,67,67,http://localhost:8080/perform_login,126,0,1
+1794012041862,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-141,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,2,0,0
+1794012041875,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-122,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,3,0,0
+1794012041752,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-139,text,true,,6835,484,67,67,http://localhost:8080/classroom.html,124,0,1
+1794012041752,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-139,,true,,413,279,67,67,http://localhost:8080/perform_login,124,0,1
+1794012041877,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-139,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,1,0,0
+1794012041891,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-102,text,true,,5449,209,67,67,http://localhost:8080/api/materials/quiz,4,0,0
+1794012041906,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-95,text,true,,79226,213,67,67,http://localhost:8080/api/materials/document,4,0,0
+1794012041938,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-110,text,true,,5449,209,67,67,http://localhost:8080/api/materials/quiz,3,0,0
+1794012041845,118,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-140,text,true,,6835,484,67,67,http://localhost:8080/classroom.html,115,0,1
+1794012041845,115,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-140,,true,,413,279,67,67,http://localhost:8080/perform_login,115,0,1
+1794012041960,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-140,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,3,0,0
+1794012041845,126,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-137,text,true,,6835,484,67,67,http://localhost:8080/classroom.html,124,0,1
+1794012041845,124,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-137,,true,,413,279,67,67,http://localhost:8080/perform_login,124,0,1
+1794012041970,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-137,text,true,,6422,205,67,67,http://localhost:8080/classroom.html,1,0,0
+1794012041969,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-83,bin,true,,1048938,234,67,67,http://localhost:8080/api/materials/video,3,0,0
+1794012042015,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-130,text,true,,6422,205,66,66,http://localhost:8080/classroom.html,4,0,0
+1794012042015,5,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-128,text,true,,6422,205,66,66,http://localhost:8080/classroom.html,5,0,0
+1794012042030,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-135,text,true,,6422,205,66,66,http://localhost:8080/classroom.html,3,0,0
+1794012042046,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-101,text,true,,79226,213,66,66,http://localhost:8080/api/materials/document,3,0,0
+1794012042078,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-86,bin,true,,1048938,234,66,66,http://localhost:8080/api/materials/video,3,0,0
+1794012042092,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-126,text,true,,6422,205,65,65,http://localhost:8080/classroom.html,4,0,0
+1794012042108,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-111,text,true,,5449,209,65,65,http://localhost:8080/api/materials/quiz,4,0,0
+1794012042123,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-98,text,true,,79226,213,65,65,http://localhost:8080/api/materials/document,4,0,0
+1794012042123,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-77,bin,true,,1048938,234,65,65,http://localhost:8080/api/materials/video,4,0,0
+1794012042139,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-89,text,true,,79226,213,64,64,http://localhost:8080/api/materials/document,3,0,0
+1794012042031,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-147,text,true,,6835,484,64,64,http://localhost:8080/classroom.html,117,0,2
+1794012042031,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-147,,true,,413,279,64,64,http://localhost:8080/perform_login,117,0,2
+1794012042149,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-147,text,true,,6422,205,64,64,http://localhost:8080/classroom.html,2,0,0
+1794012042171,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-118,text,true,,5449,209,64,64,http://localhost:8080/api/materials/quiz,4,0,0
+1794012042063,122,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-144,text,true,,6835,484,64,64,http://localhost:8080/classroom.html,119,0,2
+1794012042063,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-144,,true,,413,279,64,64,http://localhost:8080/perform_login,119,0,2
+1794012042182,3,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-144,text,true,,6422,205,64,64,http://localhost:8080/classroom.html,3,0,0
+1794012042202,13,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-76,bin,true,,1048938,234,64,64,http://localhost:8080/api/materials/video,3,0,0
+1794012042233,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-96,text,true,,79226,213,63,63,http://localhost:8080/api/materials/document,4,0,0
+1794012042249,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-131,text,true,,6422,205,63,63,http://localhost:8080/classroom.html,3,0,0
+1794012042312,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-134,text,true,,6422,205,63,63,http://localhost:8080/classroom.html,2,0,0
+1794012042234,120,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-143,text,true,,6835,484,63,63,http://localhost:8080/classroom.html,119,0,2
+1794012042234,119,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-143,,true,,413,279,63,63,http://localhost:8080/perform_login,119,0,2
+1794012042353,1,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-143,text,true,,6422,205,63,63,http://localhost:8080/classroom.html,1,0,0
+1794012042360,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-105,text,true,,5449,209,63,63,http://localhost:8080/api/materials/quiz,3,0,0
+1794012042360,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-120,text,true,,5449,209,63,63,http://localhost:8080/api/materials/quiz,3,0,0
+1794012042328,111,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-150,text,true,,6835,484,63,63,http://localhost:8080/classroom.html,109,0,2
+1794012042328,109,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-150,,true,,413,279,63,63,http://localhost:8080/perform_login,109,0,2
+1794012042437,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-150,text,true,,6422,205,63,63,http://localhost:8080/classroom.html,2,0,0
+1794012042437,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-115,text,true,,5449,209,63,63,http://localhost:8080/api/materials/quiz,3,0,0
+1794012042437,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-119,text,true,,5449,209,63,63,http://localhost:8080/api/materials/quiz,3,0,0
+1794012042453,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-93,bin,true,,1048938,234,63,63,http://localhost:8080/api/materials/video,4,0,0
+1794012042468,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-132,text,true,,6422,205,62,62,http://localhost:8080/classroom.html,3,0,0
+1794012042499,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-127,text,true,,5449,209,62,62,http://localhost:8080/api/materials/quiz,4,0,0
+1794012042500,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-104,text,true,,79226,213,62,62,http://localhost:8080/api/materials/document,3,0,0
+1794012042560,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-99,text,true,,79226,213,62,62,http://localhost:8080/api/materials/document,3,0,0
+1794012042560,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-87,bin,true,,1048938,234,62,62,http://localhost:8080/api/materials/video,3,0,0
+1794012042454,117,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-146,text,true,,6835,484,61,61,http://localhost:8080/classroom.html,114,0,2
+1794012042454,114,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-146,,true,,413,279,61,61,http://localhost:8080/perform_login,114,0,2
+1794012042569,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-146,text,true,,6422,205,61,61,http://localhost:8080/classroom.html,2,0,0
+1794012042576,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-92,bin,true,,1048938,234,61,61,http://localhost:8080/api/materials/video,3,0,0
+1794012042592,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-97,text,true,,79226,213,60,60,http://localhost:8080/api/materials/document,4,0,0
+1794012042592,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-90,bin,true,,1048938,234,60,60,http://localhost:8080/api/materials/video,4,0,0
+1794012042516,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-149,text,true,,6835,484,59,59,http://localhost:8080/classroom.html,116,0,1
+1794012042516,117,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-149,,true,,413,279,59,59,http://localhost:8080/perform_login,116,0,1
+1794012042633,2,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-149,text,true,,6422,205,59,59,http://localhost:8080/classroom.html,2,0,0
+1794012042638,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-133,text,true,,6422,205,59,59,http://localhost:8080/classroom.html,3,0,0
+1794012042669,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-123,text,true,,5449,209,59,59,http://localhost:8080/api/materials/quiz,4,0,0
+1794012042685,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-114,text,true,,5449,209,59,59,http://localhost:8080/api/materials/quiz,4,0,0
+1794012042701,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-91,bin,true,,1048938,234,59,59,http://localhost:8080/api/materials/video,3,0,0
+1794012042749,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-108,text,true,,79226,213,58,58,http://localhost:8080/api/materials/document,4,0,0
+1794012042780,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-107,text,true,,79226,213,58,58,http://localhost:8080/api/materials/document,3,0,0
+1794012042780,8,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-106,text,true,,79226,213,58,58,http://localhost:8080/api/materials/document,3,0,0
+1794012042670,119,POST - /perform_login,200,,Thread Group - Kịch bản người dùng học tập 1-148,text,true,,6835,484,58,58,http://localhost:8080/classroom.html,112,0,2
+1794012042670,112,POST - /perform_login-0,302,,Thread Group - Kịch bản người dùng học tập 1-148,,true,,413,279,58,58,http://localhost:8080/perform_login,112,0,2
+1794012042783,6,POST - /perform_login-1,200,,Thread Group - Kịch bản người dùng học tập 1-148,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,6,0,0
+1794012042892,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-136,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,3,0,0
+1794012042939,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-125,text,true,,5449,209,58,58,http://localhost:8080/api/materials/quiz,3,0,0
+1794012042955,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-129,text,true,,6422,205,58,58,http://localhost:8080/classroom.html,3,0,0
+1794012043036,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-94,bin,true,,1048938,234,58,58,http://localhost:8080/api/materials/video,3,0,0
+1794012043115,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-145,text,true,,6422,205,57,57,http://localhost:8080/classroom.html,3,0,0
+1794012043132,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-103,text,true,,79226,213,57,57,http://localhost:8080/api/materials/document,3,0,0
+1794012043163,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-122,text,true,,5449,209,57,57,http://localhost:8080/api/materials/quiz,5,0,0
+1794012043163,5,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-112,text,true,,5449,209,57,57,http://localhost:8080/api/materials/quiz,5,0,0
+1794012043195,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-124,text,true,,5449,209,57,57,http://localhost:8080/api/materials/quiz,4,0,0
+1794012043195,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-113,text,true,,79226,213,57,57,http://localhost:8080/api/materials/document,3,0,0
+1794012043227,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-142,text,true,,6422,205,57,57,http://localhost:8080/classroom.html,3,0,0
+1794012043258,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-116,text,true,,79226,213,57,57,http://localhost:8080/api/materials/document,3,0,0
+1794012043258,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-121,text,true,,79226,213,57,57,http://localhost:8080/api/materials/document,3,0,0
+1794012043274,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-100,text,true,,79226,213,57,57,http://localhost:8080/api/materials/document,3,0,0
+1794012043322,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-144,text,true,,6422,205,57,57,http://localhost:8080/classroom.html,2,0,0
+1794012043338,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-95,bin,true,,1048938,234,57,57,http://localhost:8080/api/materials/video,3,0,0
+1794012043402,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-138,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,4,0,0
+1794012043417,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-137,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,4,0,0
+1794012043417,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-147,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,4,0,0
+1794012043479,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-126,text,true,,5449,209,56,56,http://localhost:8080/api/materials/quiz,4,0,0
+1794012043527,4,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-139,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,4,0,0
+1794012043543,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-109,text,true,,79226,213,56,56,http://localhost:8080/api/materials/document,3,0,0
+1794012043558,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-150,text,true,,6422,205,56,56,http://localhost:8080/classroom.html,3,0,0
+1794012043558,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-115,text,true,,79226,213,56,56,http://localhost:8080/api/materials/document,3,0,0
+1794012043573,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-117,text,true,,79226,213,56,56,http://localhost:8080/api/materials/document,3,0,0
+1794012043573,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-98,bin,true,,1048938,234,56,56,http://localhost:8080/api/materials/video,3,0,0
+1794012043573,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-101,bin,true,,1048938,234,56,56,http://localhost:8080/api/materials/video,3,0,0
+1794012043620,5,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-105,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,4,0,0
+1794012043635,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-111,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,4,0,0
+1794012043681,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-118,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,4,0,0
+1794012043697,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-102,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,3,0,0
+1794012043729,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-110,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,4,0,0
+1794012043744,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-120,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,3,0,0
+1794012043760,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-143,text,true,,6422,205,54,54,http://localhost:8080/classroom.html,3,0,0
+1794012043760,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-123,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,3,0,0
+1794012043808,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-134,text,true,,5449,209,54,54,http://localhost:8080/api/materials/quiz,3,0,0
+1794012043824,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-127,text,true,,79226,213,54,54,http://localhost:8080/api/materials/document,3,0,0
+1794012043840,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-108,bin,true,,1048938,234,54,54,http://localhost:8080/api/materials/video,3,0,0
+1794012043856,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-140,text,true,,6422,205,53,53,http://localhost:8080/classroom.html,3,0,0
+1794012043871,2,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-141,text,true,,6422,205,53,53,http://localhost:8080/classroom.html,2,0,0
+1794012043902,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-104,bin,true,,1048938,234,53,53,http://localhost:8080/api/materials/video,5,0,0
+1794012043966,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-130,text,true,,5449,209,52,52,http://localhost:8080/api/materials/quiz,4,0,0
+1794012043966,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-128,text,true,,5449,209,52,52,http://localhost:8080/api/materials/quiz,4,0,0
+1794012043982,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-97,bin,true,,1048938,234,52,52,http://localhost:8080/api/materials/video,4,0,0
+1794012043999,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-114,text,true,,79226,213,51,51,http://localhost:8080/api/materials/document,3,0,0
+1794012044014,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-135,text,true,,5449,209,51,51,http://localhost:8080/api/materials/quiz,3,0,0
+1794012044014,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-96,bin,true,,1048938,234,51,51,http://localhost:8080/api/materials/video,3,0,0
+1794012044078,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-133,text,true,,5449,209,50,50,http://localhost:8080/api/materials/quiz,3,0,0
+1794012044078,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-119,text,true,,79226,213,50,50,http://localhost:8080/api/materials/document,3,0,0
+1794012044094,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-106,bin,true,,1048938,234,50,50,http://localhost:8080/api/materials/video,4,0,0
+1794012044110,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-131,text,true,,5449,209,49,49,http://localhost:8080/api/materials/quiz,4,0,0
+1794012044126,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-89,bin,true,,1048938,234,49,49,http://localhost:8080/api/materials/video,3,0,0
+1794012044239,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-124,text,true,,79226,213,48,48,http://localhost:8080/api/materials/document,3,0,0
+1794012044255,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-129,text,true,,5449,209,48,48,http://localhost:8080/api/materials/quiz,3,0,0
+1794012044271,6,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-132,text,true,,5449,209,48,48,http://localhost:8080/api/materials/quiz,6,0,0
+1794012044302,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-113,bin,true,,1048938,234,48,48,http://localhost:8080/api/materials/video,5,0,0
+1794012044366,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-116,bin,true,,1048938,234,47,47,http://localhost:8080/api/materials/video,4,0,0
+1794012044382,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-107,bin,true,,1048938,234,46,46,http://localhost:8080/api/materials/video,3,0,0
+1794012044398,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-146,text,true,,6422,205,45,45,http://localhost:8080/classroom.html,3,0,0
+1794012044493,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-149,text,true,,6422,205,45,45,http://localhost:8080/classroom.html,3,0,0
+1794012044509,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-144,text,true,,5449,209,45,45,http://localhost:8080/api/materials/quiz,4,0,0
+1794012044509,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-99,bin,true,,1048938,234,45,45,http://localhost:8080/api/materials/video,4,0,0
+1794012044618,3,GET - /classroom.html,200,,Thread Group - Kịch bản người dùng học tập 1-148,text,true,,6422,205,44,44,http://localhost:8080/classroom.html,3,0,0
+1794012044650,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-112,text,true,,79226,213,44,44,http://localhost:8080/api/materials/document,4,0,0
+1794012044697,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-136,text,true,,5449,209,44,44,http://localhost:8080/api/materials/quiz,4,0,0
+1794012044824,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-125,text,true,,79226,213,44,44,http://localhost:8080/api/materials/document,3,0,0
+1794012044824,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-103,bin,true,,1048938,234,44,44,http://localhost:8080/api/materials/video,3,0,0
+1794012044856,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-126,text,true,,79226,213,43,43,http://localhost:8080/api/materials/document,3,0,0
+1794012044936,21,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-122,text,true,,79226,213,43,43,http://localhost:8080/api/materials/document,21,0,0
+1794012044936,26,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-150,text,true,,5449,209,43,43,http://localhost:8080/api/materials/quiz,26,0,0
+1794012044936,26,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-140,text,true,,5449,209,43,43,http://localhost:8080/api/materials/quiz,26,0,0
+1794012044936,26,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-141,text,true,,5449,209,43,43,http://localhost:8080/api/materials/quiz,26,0,0
+1794012044936,31,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-109,bin,true,,1048938,234,43,43,http://localhost:8080/api/materials/video,21,0,0
+1794012044952,15,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-118,bin,true,,1048938,234,43,43,http://localhost:8080/api/materials/video,5,0,0
+1794012044967,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-105,bin,true,,1048938,234,41,41,http://localhost:8080/api/materials/video,3,0,0
+1794012044982,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-145,text,true,,5449,209,40,40,http://localhost:8080/api/materials/quiz,4,0,0
+1794012045014,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-117,bin,true,,1048938,234,40,40,http://localhost:8080/api/materials/video,3,0,0
+1794012045045,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-147,text,true,,5449,209,39,39,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045109,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-110,bin,true,,1048938,234,39,39,http://localhost:8080/api/materials/video,4,0,0
+1794012045109,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-115,bin,true,,1048938,234,39,39,http://localhost:8080/api/materials/video,4,0,0
+1794012045158,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-142,text,true,,5449,209,37,37,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045158,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-137,text,true,,5449,209,37,37,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045174,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-127,bin,true,,1048938,234,37,37,http://localhost:8080/api/materials/video,3,0,0
+1794012045205,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-138,text,true,,5449,209,36,36,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045205,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-119,bin,true,,1048938,234,36,36,http://localhost:8080/api/materials/video,3,0,0
+1794012045205,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-100,bin,true,,1048938,234,36,36,http://localhost:8080/api/materials/video,3,0,0
+1794012045205,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-111,bin,true,,1048938,234,36,36,http://localhost:8080/api/materials/video,3,0,0
+1794012045236,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-121,bin,true,,1048938,234,33,33,http://localhost:8080/api/materials/video,3,0,0
+1794012045268,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-133,text,true,,79226,213,32,32,http://localhost:8080/api/materials/document,3,0,0
+1794012045284,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-131,text,true,,79226,213,32,32,http://localhost:8080/api/materials/document,2,0,0
+1794012045284,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-114,bin,true,,1048938,234,32,32,http://localhost:8080/api/materials/video,2,0,0
+1794012045331,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-128,text,true,,79226,213,31,31,http://localhost:8080/api/materials/document,3,0,0
+1794012045378,11,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-123,bin,true,,1048938,234,31,31,http://localhost:8080/api/materials/video,6,0,0
+1794012045393,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-143,text,true,,5449,209,30,30,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045408,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-102,bin,true,,1048938,234,30,30,http://localhost:8080/api/materials/video,4,0,0
+1794012045424,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-139,text,true,,5449,209,29,29,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045472,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-124,bin,true,,1048938,234,29,29,http://localhost:8080/api/materials/video,3,0,0
+1794012045504,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-132,text,true,,79226,213,28,28,http://localhost:8080/api/materials/document,3,0,0
+1794012045520,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-134,text,true,,79226,213,28,28,http://localhost:8080/api/materials/document,3,0,0
+1794012045630,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-130,text,true,,79226,213,28,28,http://localhost:8080/api/materials/document,3,0,0
+1794012045644,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-129,text,true,,79226,213,28,28,http://localhost:8080/api/materials/document,3,0,0
+1794012045708,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-136,text,true,,79226,213,28,28,http://localhost:8080/api/materials/document,3,0,0
+1794012045708,6,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-120,bin,true,,1048938,234,28,28,http://localhost:8080/api/materials/video,3,0,0
+1794012045724,4,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-149,text,true,,5449,209,27,27,http://localhost:8080/api/materials/quiz,4,0,0
+1794012045756,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-135,text,true,,79226,213,27,27,http://localhost:8080/api/materials/document,3,0,0
+1794012045772,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-146,text,true,,5449,209,27,27,http://localhost:8080/api/materials/quiz,3,0,0
+1794012045898,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-125,bin,true,,1048938,234,27,27,http://localhost:8080/api/materials/video,4,0,0
+1794012046007,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-140,text,true,,79226,213,26,26,http://localhost:8080/api/materials/document,4,0,0
+1794012046007,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-150,text,true,,79226,213,26,26,http://localhost:8080/api/materials/document,4,0,0
+1794012046119,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-112,bin,true,,1048938,234,26,26,http://localhost:8080/api/materials/video,3,0,0
+1794012046167,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-126,bin,true,,1048938,234,25,25,http://localhost:8080/api/materials/video,4,0,0
+1794012046183,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-144,text,true,,79226,213,24,24,http://localhost:8080/api/materials/document,3,0,0
+1794012046199,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-122,bin,true,,1048938,234,24,24,http://localhost:8080/api/materials/video,3,0,0
+1794012046215,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-145,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,4,0,0
+1794012046471,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-137,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,4,0,0
+1794012046487,6,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-142,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,5,0,0
+1794012046518,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-143,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,3,0,0
+1794012046518,3,GET - /api/materials/quiz,200,,Thread Group - Kịch bản người dùng học tập 1-148,text,true,,5449,209,23,23,http://localhost:8080/api/materials/quiz,3,0,0
+1794012046518,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-138,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,3,0,0
+1794012046628,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-147,text,true,,79226,213,23,23,http://localhost:8080/api/materials/document,3,0,0
+1794012046660,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-129,bin,true,,1048938,234,23,23,http://localhost:8080/api/materials/video,4,0,0
+1794012046676,4,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-141,text,true,,79226,213,22,22,http://localhost:8080/api/materials/document,4,0,0
+1794012046844,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-146,text,true,,79226,213,22,22,http://localhost:8080/api/materials/document,3,0,0
+1794012046906,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-132,bin,true,,1048938,234,22,22,http://localhost:8080/api/materials/video,4,0,0
+1794012046921,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-128,bin,true,,1048938,234,21,21,http://localhost:8080/api/materials/video,4,0,0
+1794012046937,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-130,bin,true,,1048938,234,20,20,http://localhost:8080/api/materials/video,3,0,0
+1794012046999,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-131,bin,true,,1048938,234,19,19,http://localhost:8080/api/materials/video,4,0,0
+1794012047062,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-150,bin,true,,1048938,234,18,18,http://localhost:8080/api/materials/video,4,0,0
+1794012047139,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-149,text,true,,79226,213,17,17,http://localhost:8080/api/materials/document,3,0,0
+1794012047170,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-134,bin,true,,1048938,234,17,17,http://localhost:8080/api/materials/video,4,0,0
+1794012047185,10,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-135,bin,true,,1048938,234,16,16,http://localhost:8080/api/materials/video,4,0,0
+1794012047264,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-133,bin,true,,1048938,234,15,15,http://localhost:8080/api/materials/video,3,0,0
+1794012047340,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-140,bin,true,,1048938,234,14,14,http://localhost:8080/api/materials/video,3,0,0
+1794012047388,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-145,bin,true,,1048938,234,13,13,http://localhost:8080/api/materials/video,4,0,0
+1794012047404,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-139,text,true,,79226,213,12,12,http://localhost:8080/api/materials/document,3,0,0
+1794012047558,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-138,bin,true,,1048938,234,12,12,http://localhost:8080/api/materials/video,4,0,0
+1794012047636,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-136,bin,true,,1048938,234,11,11,http://localhost:8080/api/materials/video,4,0,0
+1794012047793,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-141,bin,true,,1048938,234,10,10,http://localhost:8080/api/materials/video,4,0,0
+1794012047967,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-144,bin,true,,1048938,234,9,9,http://localhost:8080/api/materials/video,3,0,0
+1794012047982,5,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-137,bin,true,,1048938,234,8,8,http://localhost:8080/api/materials/video,3,0,0
+1794012048014,3,GET - /api/materials/document,200,,Thread Group - Kịch bản người dùng học tập 1-148,text,true,,79226,213,7,7,http://localhost:8080/api/materials/document,3,0,0
+1794012048014,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-143,bin,true,,1048938,234,7,7,http://localhost:8080/api/materials/video,3,0,0
+1794012048092,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-142,bin,true,,1048938,234,6,6,http://localhost:8080/api/materials/video,4,0,0
+1794012048263,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-147,bin,true,,1048938,234,5,5,http://localhost:8080/api/materials/video,4,0,0
+1794012048612,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-149,bin,true,,1048938,234,4,4,http://localhost:8080/api/materials/video,4,0,0
+1794012048692,8,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-146,bin,true,,1048938,234,3,3,http://localhost:8080/api/materials/video,3,0,0
+1794012048772,7,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-139,bin,true,,1048938,234,2,2,http://localhost:8080/api/materials/video,3,0,0
+1794012049454,9,GET - /api/materials/video (1MB chunk),206,,Thread Group - Kịch bản người dùng học tập 1-148,bin,true,,1048938,234,1,1,http://localhost:8080/api/materials/video,4,0,0
