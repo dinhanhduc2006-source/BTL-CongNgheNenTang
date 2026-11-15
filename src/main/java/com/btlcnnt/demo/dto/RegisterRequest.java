@@ -9,7 +9,7 @@ import lombok.Data;
 public class RegisterRequest {
 
   @NotBlank(message = "Username không được để trống")
-  @Size(min = 4, max = 20, message = "Username phải từ 4 đến 20 ký tự")
+  @Size(min = 4, max = 30, message = "Username phải từ 4 đến 30 ký tự")
   @Pattern(regexp = "^[a-zA-Z0-9._-]+$", message = "Username chỉ gồm chữ cái, số, chấm, gạch dưới/ngang")
   private String username;
 
@@ -20,8 +20,8 @@ public class RegisterRequest {
   @NotBlank(message = "Mật khẩu không được để trống")
   @Size(min = 8, max = 64, message = "Mật khẩu từ 8 đến 64 ký tự")
   @Pattern(
-      regexp = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
-      message = "Mật khẩu phải gồm ít nhất 1 chữ hoa, 1 chữ thường, 1 số và 1 ký tự đặc biệt"
+      regexp = "^(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
+      message = "Mật khẩu phải có ít nhất 8 ký tự, gồm chữ hoa, số và ký tự đặc biệt (@$!%*?&)"
   )
   private String password;
 }

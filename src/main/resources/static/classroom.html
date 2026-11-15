@@ -3,144 +3,252 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Nền tảng học trực tuyến</title>
+  <meta name="theme-color" content="#f8fafc">
+  <title>Phòng học | E-Learning</title>
   <style>
-    * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-    body { max-width: 960px; margin: 20px auto; padding: 0 20px; background-color: #f7fafc; color: #2d3748; }
-    header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 15px; margin-bottom: 25px; }
-    .card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); margin-bottom: 25px; border-left: 4px solid #3182ce; }
-    video { width: 100%; max-height: 420px; border-radius: 6px; background: #000; }
-    .btn { display: inline-block; padding: 10px 18px; border-radius: 5px; font-weight: 600; text-decoration: none; cursor: pointer; border: none; }
-    .btn-primary { background: #3182ce; color: white; }
-    .btn-primary:hover { background: #2b6cb0; }
-    .btn-danger { background: #e53e3e; color: white; }
-    .btn-check { margin-top: 10px; padding: 6px 14px; font-size: 13px; background: #4a5568; color: white; border: none; border-radius: 4px; cursor: pointer; }
-    .btn-check:hover { background: #2d3748; }
-    .question-box { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 16px; margin-bottom: 15px; }
-    .option-label { display: block; margin: 8px 0; cursor: pointer; font-size: 14px; }
-    .option-label input { margin-right: 8px; }
-    .quiz-result { margin-top: 10px; font-size: 13px; font-weight: 600; }
+    :root {
+      color-scheme: light;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+      font-synthesis: none;
+    }
+    * { box-sizing: border-box; }
+    body { min-height: 100vh; margin: 0; background: #f8fafc; }
+    button, a { font: inherit; }
+    .shell { width: min(1120px, calc(100% - 36px)); margin: 0 auto; padding: 28px 0 64px; }
+    header { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding-bottom: 24px; border-bottom: 1px solid #e2e8f0; }
+    .brand { display: flex; align-items: center; gap: 13px; }
+    .brand-mark { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 13px; background: #e0f2fe; color: #0369a1; font-weight: 800; }
+    h1 { margin: 0; font-size: 21px; letter-spacing: -.035em; }
+    .eyebrow { margin: 4px 0 0; color: #64748b; font-size: 12px; }
+    .button { display: inline-flex; min-height: 40px; align-items: center; justify-content: center; gap: 8px; padding: 9px 15px; border: 1px solid #cbd5e1; border-radius: 9px; background: #ffffff; color: #334155; text-decoration: none; cursor: pointer; font-size: 13px; font-weight: 700; transition: background .15s, border-color .15s; }
+    .button:hover { border-color: #94a3b8; background: #f1f5f9; }
+    .button-primary { border-color: #0284c7; background: #0284c7; color: #ffffff; }
+    .button-primary:hover { border-color: #0369a1; background: #0369a1; }
+    .button-quiet { background: transparent; }
+    .intro { margin: 30px 0 20px; }
+    .intro h2 { margin: 0; font-size: 25px; letter-spacing: -.04em; }
+    .intro p { margin: 8px 0 0; color: #475569; font-size: 14px; }
+    .grid { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(260px, .75fr); gap: 18px; align-items: start; }
+    .lesson-column { min-width: 0; }
+    .card { min-width: 0; padding: 22px; border: 1px solid #e2e8f0; border-radius: 15px; background: #ffffff; box-shadow: 0 4px 14px rgba(15, 23, 42, .05); }
+    .card + .card { margin-top: 18px; }
+    .card-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; margin-bottom: 16px; }
+    .card h3 { margin: 0; font-size: 16px; letter-spacing: -.02em; }
+    .card-description { margin: 6px 0 0; color: #475569; font-size: 12px; line-height: 1.5; }
+    .step { color: #64748b; font-size: 12px; font-weight: 750; }
+    video { display: block; width: 100%; max-height: 490px; aspect-ratio: 16 / 9; border: 1px solid #cbd5e1; border-radius: 11px; background: #0f172a; }
+    .video-note { display: flex; align-items: center; gap: 8px; margin: 12px 0 0; color: #64748b; font-size: 12px; }
+    .status-dot { width: 7px; height: 7px; border-radius: 50%; background: #0284c7; }
+    .resource-card { display: flex; align-items: center; gap: 13px; padding: 18px; border: 1px solid #e2e8f0; border-radius: 13px; background: #ffffff; box-shadow: 0 4px 14px rgba(15, 23, 42, .05); }
+    .resource-icon { flex: 0 0 42px; height: 42px; display: grid; place-items: center; border-radius: 12px; background: #fef2f2; color: #b91c1c; font-size: 13px; font-weight: 800; }
+    .resource-copy { flex: 1; min-width: 0; }
+    .resource-copy strong { display: block; font-size: 13px; }
+    .resource-copy span { display: block; margin-top: 4px; color: #64748b; font-size: 11px; }
+    .quiz-status { margin: 0 0 14px; color: #475569; font-size: 13px; line-height: 1.5; }
+    .quiz-status.error { color: #b91c1c; }
+    .question { padding: 17px; border: 1px solid #e2e8f0; border-radius: 11px; background: #ffffff; }
+    .question + .question { margin-top: 14px; }
+    .question-title { margin: 0 0 13px; font-size: 14px; font-weight: 700; line-height: 1.55; }
+    .option { display: flex; align-items: flex-start; gap: 10px; padding: 9px 10px; border: 1px solid transparent; border-radius: 8px; color: #334155; cursor: pointer; font-size: 13px; line-height: 1.5; }
+    .option:hover { border-color: #bae6fd; background: #f0f9ff; }
+    .option input { flex: 0 0 auto; margin: 3px 0 0; accent-color: #0284c7; }
+    .quiz-actions { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-top: 17px; }
+    .quiz-result { color: #475569; font-size: 13px; font-weight: 700; }
+    .quiz-result.success { color: #15803d; }
+    .answer-feedback { display: none; margin-top: 11px; padding: 10px 12px; border-radius: 8px; font-size: 12px; line-height: 1.5; }
+    .answer-feedback.visible { display: block; }
+    .answer-feedback.correct { border: 1px solid #bbf7d0; background: #f0fdf4; color: #166534; }
+    .answer-feedback.incorrect { border: 1px solid #fecaca; background: #fef2f2; color: #b91c1c; }
+    footer { padding-top: 24px; color: #64748b; text-align: center; font-size: 11px; }
+    @media (max-width: 760px) {
+      .grid { grid-template-columns: 1fr; }
+      header { align-items: flex-start; }
+      .shell { width: min(100% - 28px, 680px); padding-top: 20px; }
+    }
+    @media (max-width: 480px) {
+      .card { padding: 17px; }
+      .resource-card { align-items: flex-start; flex-wrap: wrap; }
+      .resource-card .button { width: 100%; }
+      .quiz-actions { align-items: flex-start; flex-direction: column; }
+    }
   </style>
 </head>
 <body>
-
-<header>
-  <div>
-    <h2 style="margin: 0; color: #1a365d;">Nền tảng học trực tuyến</h2>
-    <small style="color: #718096;">Hệ thống thử nghiệm 1.000 sinh viên</small>
-  </div>
-  <div>
-    <!-- Form logout chuẩn bảo mật của Spring Security -->
-    <form action="/logout" method="POST" style="margin: 0;">
-      <button type="submit" class="btn btn-danger">Đăng Xuất</button>
+<main class="shell">
+  <header>
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">E</div>
+      <div>
+        <h1>E-Learning</h1>
+        <p class="eyebrow">Không gian học tập của bạn</p>
+      </div>
+    </div>
+    <form action="/logout" method="post">
+      <button class="button button-quiet" type="submit">Đăng xuất</button>
     </form>
+  </header>
+
+  <section class="intro">
+    <h2>Phòng học trực tuyến</h2>
+    <p>Xem bài giảng, tải giáo trình và kiểm tra kiến thức vừa học.</p>
+  </section>
+
+  <div class="grid">
+    <div class="lesson-column">
+      <section class="card">
+        <div class="card-heading">
+          <div>
+            <h3>Bài giảng video</h3>
+            <p class="card-description">Video hỗ trợ tải theo từng đoạn và tua đến vị trí mong muốn.</p>
+          </div>
+          <span class="step">01 / HỌC</span>
+        </div>
+        <video controls preload="metadata" playsinline>
+          <source src="/api/materials/video" type="video/mp4">
+          Trình duyệt của bạn không hỗ trợ phát video.
+        </video>
+        <p class="video-note"><span class="status-dot" aria-hidden="true"></span>Luồng video sử dụng HTTP byte range.</p>
+      </section>
+
+      <section class="card">
+        <div class="card-heading">
+          <div>
+            <h3>Trắc nghiệm kiến thức</h3>
+            <p class="card-description">10 câu hỏi · Chấm điểm ngay sau khi nộp bài.</p>
+          </div>
+          <span class="step">02 / ÔN TẬP</span>
+        </div>
+        <p id="quiz-status" class="quiz-status" role="status">Đang tải bộ câu hỏi...</p>
+        <form id="quiz-form" hidden>
+          <div id="quiz-questions"></div>
+          <div class="quiz-actions">
+            <button id="submit-quiz" class="button button-primary" type="submit">Nộp bài và xem điểm</button>
+            <output id="quiz-result" class="quiz-result" aria-live="polite"></output>
+          </div>
+        </form>
+      </section>
+    </div>
+
+    <aside>
+      <section class="resource-card">
+        <div class="resource-icon" aria-hidden="true">PDF</div>
+        <div class="resource-copy">
+          <strong>Giáo trình bài giảng</strong>
+          <span>Tài liệu PDF tải trực tiếp từ học liệu.</span>
+        </div>
+        <a class="button button-primary" href="/api/materials/document">Tải PDF</a>
+      </section>
+    </aside>
   </div>
-</header>
-
-<!-- 1. Video bài giảng -->
-<div class="card">
-  <h3>1. Video Bài Giảng Trực Tuyến </h3>
-  <video controls>
-    <source src="/api/materials/video" type="video/mp4">
-    Trình duyệt không hỗ trợ xem video.
-  </video>
-</div>
-
-<!-- 2. Tài liệu học tập PDF -->
-<div class="card">
-  <h3>2. Giáo Trình & Tài Liệu Đi Kèm (.PDF)</h3>
-  <a href="/api/materials/document" download="document.pdf" class="btn btn-primary">
-    Tải Slide Bài Giảng (.PDF)
-  </a>
-</div>
-
-<!-- 3. Bài trắc nghiệm tương tác -->
-<div class="card">
-  <h3>3. Câu Hỏi Trắc Nghiệm Ôn Tập </h3>
-  <button onclick="loadQuiz()" class="btn btn-primary" style="margin-bottom: 15px;">Tải Danh Sách Câu Hỏi</button>
-  <div id="quiz-container">
-    <p style="color: #718096; margin: 0;">Bấm nút phía trên để tải danh sách câu hỏi trắc nghiệm từ hệ thống...</p>
-  </div>
-</div>
+  <footer>Chúc bạn có một buổi học hiệu quả.</footer>
+</main>
 
 <script>
-  async function loadQuiz() {
-    const container = document.getElementById('quiz-container');
-    container.innerHTML = '<p style="color: #4a5568;">Đang tải danh sách câu hỏi...</p>';
+  const quizStatus = document.getElementById('quiz-status');
+  const quizForm = document.getElementById('quiz-form');
+  const quizQuestions = document.getElementById('quiz-questions');
+  const quizResult = document.getElementById('quiz-result');
+  let questions = [];
 
-    try {
-      const res = await fetch('/api/materials/quiz');
-      if (!res.ok) {
-        container.innerHTML = '<p style="color: #e53e3e;">Không thể tải dữ liệu câu hỏi (Mã lỗi: ' + res.status + ')</p>';
-        return;
-      }
+  function setQuizError(message) {
+    quizStatus.textContent = message;
+    quizStatus.classList.add('error');
+    quizStatus.hidden = false;
+    quizForm.hidden = true;
+  }
 
-      const questions = await res.json();
-      if (!questions || questions.length === 0) {
-        container.innerHTML = '<p style="color: #718096;">Chưa có câu hỏi nào trong hệ thống.</p>';
-        return;
-      }
+  function renderQuiz(items) {
+    quizQuestions.replaceChildren();
+    quizResult.textContent = '';
+    quizResult.classList.remove('success');
+    document.getElementById('submit-quiz').textContent = 'Nộp bài và xem điểm';
 
-      container.innerHTML = '';
+    items.forEach((question, index) => {
+      const fieldset = document.createElement('fieldset');
+      fieldset.className = 'question';
 
-      questions.forEach((q, index) => {
-        const qBox = document.createElement('div');
-        qBox.className = 'question-box';
+      const legend = document.createElement('legend');
+      legend.className = 'question-title';
+      legend.textContent = `Câu ${index + 1}. ${question.question}`;
+      fieldset.append(legend);
 
-        let optionsHtml = '';
-        q.options.forEach((opt, optIndex) => {
-          optionsHtml += `
-            <label class="option-label">
-              <input type="radio" name="question_${q.id}" value="${optIndex}">
-              ${opt}
-            </label>
-          `;
-        });
-
-        // Xử lý chuỗi giải thích tránh lỗi escape ký tự đặc biệt
-        const safeExplanation = q.explanation ? encodeURIComponent(q.explanation) : '';
-
-        qBox.innerHTML = `
-          <div style="font-weight: 600; margin-bottom: 10px; color: #1a365d;">
-            Câu ${index + 1}: ${q.question}
-          </div>
-          <div>
-            ${optionsHtml}
-          </div>
-          <button type="button" class="btn-check" onclick="checkAnswer(${q.id}, ${q.correctAnswer}, '${safeExplanation}')">
-            Kiểm tra đáp án
-          </button>
-          <div id="result_${q.id}" class="quiz-result"></div>
-        `;
-
-        container.appendChild(qBox);
+      question.options.forEach((option, optionIndex) => {
+        const label = document.createElement('label');
+        label.className = 'option';
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = `question-${index}`;
+        input.value = String(optionIndex);
+        input.required = true;
+        const text = document.createElement('span');
+        text.textContent = option;
+        label.append(input, text);
+        fieldset.append(label);
       });
 
-    } catch (err) {
-      container.innerHTML = '<p style="color: #e53e3e;">Lỗi kết nối khi lấy dữ liệu bài tập trắc nghiệm!</p>';
+      const feedback = document.createElement('div');
+      feedback.className = 'answer-feedback';
+      feedback.id = `feedback-${index}`;
+      feedback.setAttribute('aria-live', 'polite');
+      fieldset.append(feedback);
+      quizQuestions.append(fieldset);
+    });
+
+    quizStatus.classList.remove('error');
+    quizStatus.hidden = true;
+    quizForm.hidden = false;
+  }
+
+  async function loadQuiz() {
+    try {
+      const response = await fetch('/api/materials/quiz', { headers: { Accept: 'application/json' } });
+      if (!response.ok) throw new Error(`Không thể tải câu hỏi (HTTP ${response.status}).`);
+      const data = await response.json();
+      if (!Array.isArray(data) || data.length !== 10 || data.some(question =>
+        typeof question.question !== 'string' ||
+        !Array.isArray(question.options) ||
+        !Number.isInteger(question.correctAnswer) ||
+        question.correctAnswer < 0 ||
+        question.correctAnswer >= question.options.length
+      )) {
+        throw new Error('Bộ câu hỏi không hợp lệ: cần có đúng 10 câu và đáp án hợp lệ.');
+      }
+      questions = data;
+      renderQuiz(questions);
+    } catch (error) {
+      setQuizError(error.message || 'Không thể kết nối để tải câu hỏi.');
     }
   }
 
-  function checkAnswer(questionId, correctAnswer, encodedExplanation) {
-    const selected = document.querySelector(`input[name="question_${questionId}"]:checked`);
-    const resultDiv = document.getElementById(`result_${questionId}`);
+  quizForm.addEventListener('submit', (event) => {
+    event.preventDefault();
+    if (!quizForm.reportValidity()) return;
 
-    if (!selected) {
-      resultDiv.style.color = '#d97706';
-      resultDiv.innerText = 'Vui lòng chọn một đáp án!';
-      return;
-    }
+    let score = 0;
+    questions.forEach((question, index) => {
+      const selected = quizForm.querySelector(`input[name="question-${index}"]:checked`);
+      const feedback = document.getElementById(`feedback-${index}`);
+      const isCorrect = Number(selected.value) === question.correctAnswer;
+      if (isCorrect) score += 1;
+      feedback.className = `answer-feedback visible ${isCorrect ? 'correct' : 'incorrect'}`;
+      const message = document.createElement('span');
+      message.textContent = isCorrect ? 'Chính xác. ' : 'Chưa chính xác. ';
+      feedback.replaceChildren(message);
+      if (typeof question.explanation === 'string' && question.explanation) {
+        const explanation = document.createElement('span');
+        explanation.textContent = question.explanation;
+        feedback.append(explanation);
+      }
+    });
 
-    const explanation = encodedExplanation ? decodeURIComponent(encodedExplanation) : '';
+    quizResult.textContent = `Kết quả: ${score}/10 câu đúng`;
+    quizResult.classList.toggle('success', score >= 7);
+    document.getElementById('submit-quiz').textContent = 'Chấm lại bài';
+  });
 
-    if (parseInt(selected.value) === correctAnswer) {
-      resultDiv.style.color = '#16a34a';
-      resultDiv.innerText = '✓ Chính xác! ' + (explanation ? 'Giải thích: ' + explanation : '');
-    } else {
-      resultDiv.style.color = '#dc2626';
-      resultDiv.innerText = '✗ Chưa chính xác, hãy thử lại!';
-    }
-  }
+  loadQuiz();
 </script>
 </body>
 </html>

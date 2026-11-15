@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class UserEntity {
+public class User {
 
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -26,8 +26,9 @@ public class UserEntity {
   @Column(nullable = false, length = 100)
   private String fullName;
 
+  @Builder.Default
   @Column(nullable = false)
-  private String role; // "ROLE_STUDENT"
+  private String role = "ROLE_STUDENT";
 
   private LocalDateTime createdAt;
 
